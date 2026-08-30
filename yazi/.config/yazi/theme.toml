@@ -1,4 +1,0 @@
-# Import Pywal generated TOML file
-[flavor]
-use = "pywal"
-
