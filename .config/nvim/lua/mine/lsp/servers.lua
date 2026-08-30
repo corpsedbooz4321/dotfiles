@@ -12,6 +12,8 @@ return {
         json = {},
         cssls = {},
         ts_ls = {},
+        csharp_ls = {},
+        lemminx = {},
       },
     },
   },
