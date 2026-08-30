@@ -1,0 +1,26 @@
+#!/usr/bin/env zsh
+
+img="$1"
+
+# Fallback if no argument passed
+if [ -z "$img" ]; then
+  img=$(find ~/HDD/Pictures/wallpaper -type f | shuf -n 1)
+fi
+
+# Ensure daemon is running
+pgrep -x "awww-daemon" >/dev/null || (
+  awww-daemon &
+  sleep 0.5
+)
+
+# Set wallpaper (awww with animation)
+awww img "$img" --transition-type grow --transition-duration 1
+
+# Generate colors
+wal -i "$img"
+
+# Live colors reload for Kitty
+kitty @set-colors -a ~/.cache/wal/colors-kitty.conf 2>/dev/null || killall -USR1 kitty
+
+
+echo "Applied wallpaper + theme: $img"
