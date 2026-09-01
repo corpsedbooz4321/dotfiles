@@ -19,4 +19,4 @@ mkdir -p "$HOME/.config/yazi/flavors/pywal.yazi"
 cp "$HOME/.cache/wal/theme.toml" "$HOME/.config/yazi/flavors/pywal.yazi/flavor.toml" 2>/dev/null
 
 # Notify ---
-notify-send "Wallpaper changed" "$CATEGORY"
+# notify-send "Wallpaper changed" "$CATEGORY"

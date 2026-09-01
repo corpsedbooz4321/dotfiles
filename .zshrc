@@ -23,8 +23,8 @@ source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh 2>/dev
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh 2>/dev/null
 
 #===================================================================================
-#===================================================================================
 # Aliases# --- Navigation & General Core ---
+#===================================================================================
 alias cls="clear"
 alias q="exit"
 alias cd..="cd .."
@@ -46,6 +46,8 @@ alias ldate="eza -la --sort=date --icons=auto"
 
 # --- Editors & Configuration Management ---
 alias vi="nvim"
+alias y="yazi"
+alias fs="fastfetch"
 alias dot="cd ~/dotfiles"
 alias conf="cd ~/.config"
 alias reload="source ~/.zshrc"
@@ -53,7 +55,9 @@ alias hyprreload="hyprctl reload"
 
 # --- Arch Linux / Pacman ---
 alias updateall="sudo pacman -Syu"
+alias del="sudo pacman -Rns"
 alias ins="sudo pacman -S"
+alias please="sudo"
 alias cleanup="sudo pacman -Rns \$(pacman -Qdtq)"
 
 # --- Git Workflow Shortcuts ---

@@ -15,4 +15,4 @@ local function scan_imports(base_dir, prefix)
   return imports
 end
 
-return scan_imports(vim.fn.stdpath("config") .. "/lua/mine/languages", "mine.languages")
+return scan_imports(vim.fn.stdpath("config") .. "/lua/mine/plugins/editor", "mine.plugins.editor")
