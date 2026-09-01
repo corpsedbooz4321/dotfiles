@@ -61,8 +61,7 @@ alias lsize="eza -la --sort=size --icons=auto"
 alias ldate="eza -la --sort=date --icons=auto"
 
 # --- Editors & Configuration Management ---
-alias vi="nvim ."
-alias nvim="nvim ."
+alias vi="nvim"
 alias y="yazi"
 alias fs="fastfetch"
 alias dot="cd ~/dotfiles"
