@@ -20,7 +20,7 @@ require("lazy").setup({
     { import = "mine.plugins" },
     { import = "mine.lsp" },
     { import = "mine.dap" },
-    { import = "mine.theme.nord" },
+    { import = "mine.theme.catppuccin" },
     { import = "mine.languages" },
   },
 
