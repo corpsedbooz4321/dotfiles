@@ -6,8 +6,17 @@ local function scan_imports(base_dir, prefix)
   for _, name in ipairs(entries) do
     local full_path = base_dir .. "/" .. name
     local stat = vim.loop.fs_stat(full_path)
+
     if stat and stat.type == "directory" then
-      table.insert(imports, { import = prefix .. "." .. name })
+      local nested = scan_imports(full_path, prefix .. "." .. name)
+      for _, item in ipairs(nested) do
+        table.insert(imports, item)
+      end
+    elseif name ~= "init.lua" and name:match("%.lua$") then
+      local stem = name:match("^(.-)%.lua$")
+      if stem and stem ~= "" then
+        table.insert(imports, { import = prefix .. "." .. stem })
+      end
     end
   end
 
