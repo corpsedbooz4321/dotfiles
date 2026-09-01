@@ -1,24 +1,40 @@
+
+#===================================================================================
 eval "$(starship init zsh)"
 eval "$(zoxide init zsh)"
 
 
+#===================================================================================
 # --- Environment Variables ---
+#===================================================================================
+
 export PATH="$HOME/.local/bin:$PATH"
 export EDITOR="nvim"
 export VISUAL="nvim"
+export DOTNET_ROOT=/usr/share/dotnet
+export PATH=$PATH:$DOTNET_ROOT:$HOME/.dotnet/tools
 
+#===================================================================================
 # --- Zsh Options ---
+#===================================================================================
+
 HISTFILE=~/.zsh_history
 HISTSIZE=10000
 SAVEHIST=10000
 setopt SHARE_HISTORY          # Share history across terminals
 setopt HIST_IGNORE_ALL_DUPS   # Do not record duplicate entries
 
+#===================================================================================
 # --- Source Pywal Colors (if generated) ---
+#===================================================================================
+
 [ -f ~/.cache/wal/sequences ] && cat ~/.cache/wal/sequences
 [ -f ~/.cache/wal/colors-tty.sh ] && source ~/.cache/wal/colors-tty.sh
 
+#===================================================================================
 # --- Plugins (Arch Arch Linux Pacman paths) ---
+#===================================================================================
+
 source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh 2>/dev/null
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh 2>/dev/null
 

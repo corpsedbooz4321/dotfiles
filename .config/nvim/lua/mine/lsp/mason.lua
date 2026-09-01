@@ -14,7 +14,6 @@ return {
       ensure_installed = {
         "bashls",
         "clangd",
-        "cmake",
         "cssls",
         "csharp_ls",
         "html",
@@ -22,7 +21,6 @@ return {
         "lemminx",
         "lua_ls",
         "marksman",
-        "neocmake",
         "pyright",
         "ts_ls",
         "yamlls",
@@ -35,11 +33,9 @@ return {
     opts = {
       ensure_installed = {
         "clang-format",
-        "cmake-format",
         "csharpier",
         "prettierd",
         "ruff",
-        "ruff_lsp",
         "shfmt",
         "standardjs",
         "stylua",
