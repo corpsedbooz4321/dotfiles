@@ -22,6 +22,8 @@ return {
         "yaml",
         "toml",
         "regex",
+        "css",
+        "svelte",
       })
     end,
   },
