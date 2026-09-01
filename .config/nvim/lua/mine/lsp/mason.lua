@@ -1,5 +1,4 @@
 return {
-  -- Core Mason UI/Engine
   {
     "mason-org/mason.nvim",
     cmd = "Mason",
@@ -7,40 +6,43 @@ return {
       ui = { border = "rounded" },
     },
   },
-
-  -- Automatic installer for LSPs
   {
     "mason-org/mason-lspconfig.nvim",
     dependencies = { "mason-org/mason.nvim" },
     opts = {
+      automatic_installation = true,
       ensure_installed = {
-        "lua_ls",
-        "pyright",
+        "bashls",
         "clangd",
+        "cmake",
         "cssls",
-        "lemminx",
-        "yamlls",
         "csharp_ls",
-        "vtsls",
+        "html",
+        "jsonls",
+        "lemminx",
+        "lua_ls",
+        "marksman",
+        "neocmake",
+        "pyright",
+        "ts_ls",
+        "yamlls",
       },
     },
   },
-
-  -- Automatic installer for DAP, Formatters, & Linters
   {
     "WhoIsSethDaniel/mason-tool-installer.nvim",
     dependencies = { "mason-org/mason.nvim" },
     opts = {
       ensure_installed = {
-        -- Formatters / Linters
-        "stylua",
-        "ruff",
-        "shfmt",
+        "clang-format",
+        "cmake-format",
+        "csharpier",
         "prettierd",
-
-        -- Debug Adapters (DAP)
-        "codelldb",
-        "debugpy",
+        "ruff",
+        "ruff_lsp",
+        "shfmt",
+        "standardjs",
+        "stylua",
       },
     },
   },

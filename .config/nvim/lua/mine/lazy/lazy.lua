@@ -16,21 +16,12 @@ vim.opt.rtp:prepend(lazypath)
 
 require("lazy").setup({
   spec = {
-    -- add LazyVim and import its plugins
     { "LazyVim/LazyVim", import = "lazyvim.plugins" },
-    -- import/override with your plugins
-    { import = "mine.plugins." },
+    { import = "mine.plugins" },
     { import = "mine.lsp" },
     { import = "mine.dap" },
     { import = "mine.theme.catppuccin" },
     { import = "mine.languages" },
-  },
-
-  ui = {
-    open = true,
-  },
-  install = {
-    missing = true,
   },
 
   defaults = {

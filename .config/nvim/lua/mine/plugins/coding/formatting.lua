@@ -3,26 +3,28 @@ return {
   event = { "BufWritePre" },
   cmd = { "ConformInfo" },
   opts = {
+    format_on_save = {
+      timeout_ms = 500,
+      lsp_fallback = true,
+    },
     formatters_by_ft = {
+      c = { "clang_format" },
+      cpp = { "clang_format" },
       lua = { "stylua" },
       python = { "ruff_format", "ruff_organize_imports" },
       javascript = { "prettierd" },
       typescript = { "prettierd" },
       javascriptreact = { "prettierd" },
       typescriptreact = { "prettierd" },
-
-      -- Add missing formatters here:
-      xml = { "lemminx" }, -- Uses Lemminx LSP / formatting
-      yaml = { "prettierd" }, -- Uses prettierd for YAML
       json = { "prettierd" },
-      c_sharp = { "csharpier" }, -- C# formatter (install via Mason)
+      yaml = { "prettierd" },
+      xml = { "lemminx" },
+      c_sharp = { "csharpier" },
+      cs = { "csharpier" },
       sh = { "shfmt" },
-    },
-
-    -- Optional: Auto-format on save
-    format_on_save = {
-      timeout_ms = 500,
-      lsp_fallback = true,
+      markdown = { "prettierd" },
+      bash = { "shfmt" },
+      cmake = { "cmake_format" },
     },
   },
 }
