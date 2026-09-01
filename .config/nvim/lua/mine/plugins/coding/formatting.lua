@@ -24,7 +24,6 @@ return {
       sh = { "shfmt" },
       markdown = { "prettierd" },
       bash = { "shfmt" },
-      cmake = { "cmake_format" },
     },
   },
 }
