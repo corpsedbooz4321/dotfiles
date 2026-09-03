@@ -19,7 +19,7 @@ require("lazy").setup({
     { "LazyVim/LazyVim", import = "lazyvim.plugins" },
     { import = "mine.plugins" },
     { import = "mine.lsp" },
-    { import = "mine.dap" },
+    { import = "mine.dap.dap" },
     { import = "mine.theme.catppuccin" },
     { import = "mine.languages" },
   },
