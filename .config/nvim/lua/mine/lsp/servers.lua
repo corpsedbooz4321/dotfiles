@@ -4,13 +4,11 @@ return {
     opts = {
       servers = {
         clangd = {},
-        cssls = {},
         csharp_ls = {},
-        html = {},
         jsonls = {},
         lua_ls = {},
+        marksman = {},
         pyright = {},
-        ts_ls = {},
       },
     },
   },
