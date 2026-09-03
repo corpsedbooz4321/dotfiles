@@ -12,13 +12,14 @@ hl.env("HYPRCURSOR_THEME", "Bibata-Modern-Ice")
 -------------------
 
 hl.on("hyprland.start", function()
-  hl.exec_cmd("nm-applet")
-  hl.exec_cmd("waybar")
-  hl.exec_cmd("playerctld daemon")
-  hl.exec_cmd("hyprctl setcursor Bibata-Modern-Ice 20")
-  hl.exec_cmd("wl-paste --watch cliphist store")
+	hl.exec_cmd("nm-applet")
+	hl.exec_cmd("waybar")
+	hl.exec_cmd("playerctld daemon")
+	hl.exec_cmd("hyprctl setcursor Bibata-Modern-Ice 20")
+	hl.exec_cmd("wl-paste --watch cliphist store")
 
-  -- Update D-Bus so apps can find the keyring under Wayland
-  hl.exec_cmd("dbus-update-activation-environment --systemd WAYLAND_DISPLAY XDG_CURRENT_DESKTOP")
-  os.execute("awww-daemon &")
+	hl.exec_cmd("dbus-update-activation-environment --systemd WAYLAND_DISPLAY XDG_CURRENT_DESKTOP XDG_SESSION_TYPE")
+	hl.exec_cmd("systemctl --user import-environment WAYLAND_DISPLAY XDG_CURRENT_DESKTOP XDG_SESSION_TYPE")
+
+	os.execute("awww-daemon &")
 end)

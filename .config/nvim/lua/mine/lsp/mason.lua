@@ -12,18 +12,14 @@ return {
     opts = {
       automatic_installation = true,
       ensure_installed = {
-        "bashls",
         "clangd",
         "cssls",
         "csharp_ls",
         "html",
         "jsonls",
-        "lemminx",
         "lua_ls",
-        "marksman",
         "pyright",
         "ts_ls",
-        "yamlls",
       },
     },
   },
