@@ -5,4 +5,5 @@ require("mine.lazy.lazy")
 -- do not jump to the parent git repo or home directory.
 
 require("mine.config.keymaps")
+require("mine.config.options")
 require("mine.lsp")

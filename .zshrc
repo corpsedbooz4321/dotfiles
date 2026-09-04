@@ -90,6 +90,7 @@ alias vi="nvim"
 alias nvim="nvim ."
 alias y="yazi"
 alias fs="fastfetch"
+alias run="python3"
 alias dot="cd ~/dotfiles"
 alias conf="cd ~/.config"
 alias reload="source ~/.zshrc"
@@ -131,7 +132,6 @@ alias sw="setwal"
 alias ss="screenshot.sh"
 #===================================================================================
 #===================================================================================
-
 
 
 #===================================================================================

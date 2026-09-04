@@ -18,7 +18,7 @@ return {
       {
         "<leader>e",
         function()
-          Snacks.explorer({ cwd = true }) -- CWD
+          Snacks.explorer({ cwd = false }) -- CWD
         end,
         desc = "Explorer (cwd)",
       },

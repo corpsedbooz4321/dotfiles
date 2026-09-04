@@ -1,5 +1,4 @@
-#!/usr/bin/env bash
-#
+#!/usr/bin/env zsh
 #animation_frames=("▁" "▂" "▃" "▄" "▅" "▆" "▇" "█")
 
 animation_frames=("▂▄▆" "▄▂▆" "▄▆▂" "▆▄▂" "▆▂▄")
