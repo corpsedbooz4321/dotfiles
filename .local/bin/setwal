@@ -19,6 +19,7 @@ awww img "$img" --transition-type grow --transition-duration 1
 # Generate colors
 wal -i "$img"
 
+
 # Live colors reload for Kitty
 kitty @set-colors -a ~/.cache/wal/colors-kitty.conf 2>/dev/null || killall -USR1 kitty
 

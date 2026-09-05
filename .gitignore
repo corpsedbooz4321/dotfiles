@@ -1,2 +1,7 @@
 *config.toml
 rescrobbled/config.toml
+local-covers*
+local-covers/*
+autosave
+cache
+command-history
