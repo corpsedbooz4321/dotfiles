@@ -5,3 +5,4 @@ local-covers/*
 autosave
 cache
 command-history
+settings.json
