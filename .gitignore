@@ -6,3 +6,4 @@ autosave
 cache
 command-history
 settings.json
+.config/sonora/settings.json
