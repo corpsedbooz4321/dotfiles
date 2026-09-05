@@ -1,0 +1,1704 @@
+{
+  "version": 1,
+  "volume": 0.7,
+  "normalisation": false,
+  "gapless": true,
+  "lyrics_for_local_files": true,
+  "karaoke_lyrics": true,
+  "romanized_lyrics": true,
+  "panel_lyrics_scale": 1.0,
+  "fullscreen_lyrics_scale": 1.0,
+  "romanization_scripts": {
+    "japanese": true,
+    "chinese": true,
+    "korean": true,
+    "cyrillic": false,
+    "greek": false,
+    "arabic": false,
+    "other": false
+  },
+  "adaptive_menu": false,
+  "check_updates": false,
+  "close_to_tray": true,
+  "sidebar_width": 195.0,
+  "sidebar_open": true,
+  "sidebar_right_width": 254.0,
+  "sidebar_right_open": false,
+  "sidebar_right_tab": "queue",
+  "shuffle": false,
+  "repeat": "off",
+  "radio": false,
+  "language": "auto",
+  "font": "JetBrainsMono Nerd Font Mono",
+  "provider": "spotify",
+  "startup": "home",
+  "hidden_nav": [
+    "history",
+    "local"
+  ],
+  "tables": {},
+  "sorting": {},
+  "views": {},
+  "resume": {
+    "provider": "spotify",
+    "position": 93.112,
+    "origin": {
+      "whence": "playlist",
+      "id": "4OplhwqHUUHzpbkjAb5PGd",
+      "name": "justlisten..."
+    },
+    "current": {
+      "id": "2QjOHCTQ1Jl3zawyYOpxh6",
+      "name": "Sweater Weather",
+      "artists": "The Neighbourhood",
+      "credited": [
+        {
+          "name": "The Neighbourhood",
+          "id": "77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "album": "I Love You.",
+      "album_id": "4xkM0BwLM9H2IUcbYzpcBI",
+      "cover": "https://i.scdn.co/image/ab67616d000048518265a736a1eb838ad5a0b921",
+      "seconds": 240.4,
+      "explicit": false
+    },
+    "past": [
+      {
+        "id": "5WbfFTuIldjL9x7W6y5l7R",
+        "name": "Kingston",
+        "artists": "Faye Webster",
+        "credited": [
+          {
+            "name": "Faye Webster",
+            "id": "5szilpXHcwOqnyKLqGco5j"
+          }
+        ],
+        "album": "Atlanta Millionaires Club",
+        "album_id": "7jXmmQ1gNTXHyTF7uvH4Tn",
+        "cover": "https://i.scdn.co/image/ab67616d00004851ac4ebd092fa2cf210e4c8023",
+        "seconds": 202.653,
+        "explicit": false
+      }
+    ],
+    "upcoming": [
+      {
+        "id": "2nXH9LBb5WlpNBH791Pov8",
+        "name": "Cry For Me",
+        "artists": "Michita, 愛海",
+        "credited": [
+          {
+            "name": "Michita",
+            "id": "4KM9ltJ73oTZGfZ5wSHRSl"
+          },
+          {
+            "name": "愛海",
+            "id": "2n34FF8R9A4dM66YwCHlTL"
+          }
+        ],
+        "album": "Pureness",
+        "album_id": "0EKCDiqZxdLkBa4LF7th42",
+        "cover": "https://i.scdn.co/image/ab67616d0000485176da72cd1de9b25fbe44b26e",
+        "seconds": 302.866,
+        "explicit": false
+      },
+      {
+        "id": "012LR1KvgL8GvHryu0zMoc",
+        "name": "Worst Enemy",
+        "artists": "Marino",
+        "credited": [
+          {
+            "name": "Marino",
+            "id": "3HedFe4b2Nqeg1CEzmt6ZI"
+          }
+        ],
+        "album": "Worst Enemy",
+        "album_id": "5qVR7is4qaPhaPpddjfLwy",
+        "cover": "https://i.scdn.co/image/ab67616d000048518803747b6bcf0b1887b9f715",
+        "seconds": 109.828,
+        "explicit": false
+      },
+      {
+        "id": "42qNWdLKCI41S4uzfamhFM",
+        "name": "Duvet",
+        "artists": "bôa",
+        "credited": [
+          {
+            "name": "bôa",
+            "id": "5jTtGLk1mGFMY5lQOvJYUj"
+          }
+        ],
+        "album": "Twilight",
+        "album_id": "7sGYAV0xv7ZfAMzIpMl8m1",
+        "cover": "https://i.scdn.co/image/ab67616d000048516173e498401502583046f42c",
+        "seconds": 203.6,
+        "explicit": false
+      },
+      {
+        "id": "3XBMJF4N7ZdZrK30oGCxpN",
+        "name": "Hard 2 Face Reality",
+        "artists": "Poo Bear, Justin Bieber, J A Y E L E C T R O N I C A",
+        "credited": [
+          {
+            "name": "Poo Bear",
+            "id": "3JXpwnHbLvXxY99EuXqFPX"
+          },
+          {
+            "name": "Justin Bieber",
+            "id": "1uNFoZAHBGtllmzznpCI3s"
+          },
+          {
+            "name": "J A Y E L E C T R O N I C A",
+            "id": "0TkqXdyWLsssJH7okthMPQ"
+          }
+        ],
+        "album": "Poo Bear Presents: Bearthday Music",
+        "album_id": "4IibNIC3LGip4ppu6Mnin9",
+        "cover": "https://i.scdn.co/image/ab67616d00004851b25f8bb1ba4fd1fe9151c17f",
+        "seconds": 196.569,
+        "explicit": false
+      },
+      {
+        "id": "375w3hl6qBGCF4pfOD9T6m",
+        "name": "WILDFLOWER - Instrumental",
+        "artists": "Ricardo Castro",
+        "credited": [
+          {
+            "name": "Ricardo Castro",
+            "id": "4NrWmrJQlAKWiaLyQKLTWK"
+          }
+        ],
+        "album": "WILDFLOWER (Instrumental)",
+        "album_id": "2BBASqgvIH4qFtDkXwHFtq",
+        "cover": "https://i.scdn.co/image/ab67616d00004851534892fd64e2ac6c029977df",
+        "seconds": 127.722,
+        "explicit": false
+      },
+      {
+        "id": "2ZDhEadCNyggLJWGETk7sQ",
+        "name": "I Can't Fit In",
+        "artists": "Marino",
+        "credited": [
+          {
+            "name": "Marino",
+            "id": "3HedFe4b2Nqeg1CEzmt6ZI"
+          }
+        ],
+        "album": "I Can't Fit In",
+        "album_id": "3sQoZT3jqG4ub4YrzcY9aa",
+        "cover": "https://i.scdn.co/image/ab67616d00004851b20394ece0d428ddafd685c2",
+        "seconds": 129.542,
+        "explicit": false
+      },
+      {
+        "id": "3siwsiaEoU4Kuuc9WKMUy5",
+        "name": "No One Noticed",
+        "artists": "The Marías",
+        "credited": [
+          {
+            "name": "The Marías",
+            "id": "2sSGPbdZJkaSE2AbcGOACx"
+          }
+        ],
+        "album": "Submarine",
+        "album_id": "03guxdOi12XJbnvxvxbpwG",
+        "cover": "https://i.scdn.co/image/ab67616d000048518aa339341a0b0c813909c831",
+        "seconds": 236.906,
+        "explicit": false
+      },
+      {
+        "id": "2Ujk04pdRsHw6OWsxgMSUA",
+        "name": "Cry For Me (feat.Ami)",
+        "artists": "Maggie_麦吉, Ami",
+        "credited": [
+          {
+            "name": "Maggie_麦吉",
+            "id": "6ooBXymGf09PycODvwdQMW"
+          },
+          {
+            "name": "Ami",
+            "id": "5141U3SDi3aF5Ec67PLmf1"
+          }
+        ],
+        "album": "Cry For Me",
+        "album_id": "6Tn08e4kdSGjnNsVIiZNLd",
+        "cover": "https://i.scdn.co/image/ab67616d000048511142cb19580f392c5c8a2ada",
+        "seconds": 226.666,
+        "explicit": false
+      },
+      {
+        "id": "7LHAKF7pBqHch8o6Yo0ad5",
+        "name": "Suzume (feat. Toaka)",
+        "artists": "RADWIMPS, Toaka",
+        "credited": [
+          {
+            "name": "RADWIMPS",
+            "id": "1EowJ1WwkMzkCkRomFhui7"
+          },
+          {
+            "name": "Toaka",
+            "id": "0xFsJRSOYJmmuozISzreTR"
+          }
+        ],
+        "album": "Suzume (feat. Toaka)",
+        "album_id": "7HT4WPE6gHPxrRmgzhhTMr",
+        "cover": "https://i.scdn.co/image/ab67616d000048515cde862db0ec9bb1e1566dd7",
+        "seconds": 236.39,
+        "explicit": false
+      },
+      {
+        "id": "4zUob9iYFS9TgAR0hgo5pR",
+        "name": "Seoul City",
+        "artists": "JENNIE",
+        "credited": [
+          {
+            "name": "JENNIE",
+            "id": "250b0Wlc5Vk0CoUsaCY84M"
+          }
+        ],
+        "album": "Ruby",
+        "album_id": "4gBtLWLja2rOze5SknGdUZ",
+        "cover": "https://i.scdn.co/image/ab67616d000048517f86eab0ae4e3d318b92e0b9",
+        "seconds": 164.398,
+        "explicit": false
+      },
+      {
+        "id": "640t4xHVN0eGTpZ9FCkK5J",
+        "name": "END THEME (From \"5 Centimeters Per Second\")",
+        "artists": "PianoDeuss",
+        "credited": [
+          {
+            "name": "PianoDeuss",
+            "id": "3PAedjyX7ckOhAdlhW5BmG"
+          }
+        ],
+        "album": "Emotional Anime Music Piano Collection, Vol. 2",
+        "album_id": "284YcNPzJAKWGblk1Eisqy",
+        "cover": "https://i.scdn.co/image/ab67616d0000485178e6cd7c61204c76103c6f75",
+        "seconds": 208.508,
+        "explicit": false
+      },
+      {
+        "id": "2Kg9SjlNZvLzE8AXVMDj65",
+        "name": "One more time, one more chance (From \"5 Centimeters per Second\") - English Version",
+        "artists": "Luca JPOP Anime covers",
+        "credited": [
+          {
+            "name": "Luca JPOP Anime covers",
+            "id": "6bUDgFJpjJRDUZgSUs84CJ"
+          }
+        ],
+        "album": "Best of Japan's Vibe JPOP English Covers",
+        "album_id": "1dALlkleHuO3nehcYCt2Mb",
+        "cover": "https://i.scdn.co/image/ab67616d00004851e56e0ebb0e57626b8c143f97",
+        "seconds": 107.646,
+        "explicit": false
+      },
+      {
+        "id": "5XtsfMFmpM401S6dbVaOQw",
+        "name": "The Lost Soul Down - Slowed & Reverb",
+        "artists": "NBSPLV",
+        "credited": [
+          {
+            "name": "NBSPLV",
+            "id": "61TQfpvTjHYQjPrvtJPwVa"
+          }
+        ],
+        "album": "The Lost Soul Down (Slowed & Reverb)",
+        "album_id": "2nQUgF7PdSKzKOIagdHeqk",
+        "cover": "https://i.scdn.co/image/ab67616d000048519d4a4d1d3df825f282f48c59",
+        "seconds": 241.111,
+        "explicit": false
+      },
+      {
+        "id": "6nGeLlakfzlBcFdZXteDq7",
+        "name": "Love Story",
+        "artists": "Indila",
+        "credited": [
+          {
+            "name": "Indila",
+            "id": "0FEJqmeLRzsXj8hgcZaAyB"
+          }
+        ],
+        "album": "Mini World",
+        "album_id": "1r7XjAgjwlakmXC2GbPXjH",
+        "cover": "https://i.scdn.co/image/ab67616d000048514ae8ff731c49965bf2083405",
+        "seconds": 316.28,
+        "explicit": false
+      },
+      {
+        "id": "6zxmJ2iyP8sPGVEc37w5E8",
+        "name": "Runaway",
+        "artists": "AURORA",
+        "credited": [
+          {
+            "name": "AURORA",
+            "id": "1WgXqy2Dd70QQOU7Ay074N"
+          }
+        ],
+        "album": "Running with the Wolves",
+        "album_id": "4QuAGL4XltYG8TEuviXlnq",
+        "cover": "https://i.scdn.co/image/ab67616d0000485181cdff6bc134913e722c4d3f",
+        "seconds": 248.826,
+        "explicit": false
+      },
+      {
+        "id": "1TQXIltqoZ5XXyfCbAeSQQ",
+        "name": "Dancing With Your Ghost",
+        "artists": "Sasha Alex Sloan",
+        "credited": [
+          {
+            "name": "Sasha Alex Sloan",
+            "id": "4xnihxcoXWK3UqryOSnbw5"
+          }
+        ],
+        "album": "Dancing With Your Ghost",
+        "album_id": "3I677CWVoiOsbMxOQzjShB",
+        "cover": "https://i.scdn.co/image/ab67616d00004851141cf717cd3993690358a60c",
+        "seconds": 197.732,
+        "explicit": false
+      },
+      {
+        "id": "4Gg1tYCl7rWR4laKbdtPA4",
+        "name": "Daylight",
+        "artists": "David Kushner",
+        "credited": [
+          {
+            "name": "David Kushner",
+            "id": "33NVpKoXjItPwUJTMZIOiY"
+          }
+        ],
+        "album": "Daylight",
+        "album_id": "4ga3unP7KMWcKvLQ8tNBbH",
+        "cover": "https://i.scdn.co/image/ab67616d00004851e40c514edddb844439af6201",
+        "seconds": 212.953,
+        "explicit": false
+      },
+      {
+        "id": "0nTl6b84STC3E1J32yw4iq",
+        "name": "in the stars (sped up version)",
+        "artists": "Sami Rose, sped + slow + rent free",
+        "credited": [
+          {
+            "name": "Sami Rose",
+            "id": "2NLhDrmuSI9K1SHfwmqNXL"
+          },
+          {
+            "name": "sped + slow + rent free",
+            "id": "3NJJC7NZ0EmbEk68kLM6w5"
+          }
+        ],
+        "album": "in the stars",
+        "album_id": "0piPaGzFgYSM9cd8O6YdnT",
+        "cover": "https://i.scdn.co/image/ab67616d000048515edde6663744d959ee8787aa",
+        "seconds": 211.57,
+        "explicit": false
+      },
+      {
+        "id": "18iFlSasCfqzXfmhXmSakE",
+        "name": "novocaine - Slowed",
+        "artists": "GenriX, CORBAL, Shiloh Dynasty",
+        "credited": [
+          {
+            "name": "GenriX",
+            "id": "6hxcqtqpmf08pTDkffU5xx"
+          },
+          {
+            "name": "CORBAL",
+            "id": "2jjSx5EpZwv9iBAgFkGWPh"
+          },
+          {
+            "name": "Shiloh Dynasty",
+            "id": "1wxPItEzr7U7rGSMPqZ25r"
+          }
+        ],
+        "album": "unfortunately yours,",
+        "album_id": "1fm7CNqCCdnqOoxdb23VTs",
+        "cover": "https://i.scdn.co/image/ab67616d0000485114e21b4fc24f2b3cae15ef93",
+        "seconds": 219.781,
+        "explicit": false
+      },
+      {
+        "id": "5ThyDv6aRVU8AH4vXQNldF",
+        "name": "Finding Her",
+        "artists": "Kushagra, Bharath, Saaheal",
+        "credited": [
+          {
+            "name": "Kushagra",
+            "id": "2IKfr1JgPRXmXKAWwrABc6"
+          },
+          {
+            "name": "Bharath",
+            "id": "1zD9gVg8wPOmVfYxTjMHaT"
+          },
+          {
+            "name": "Saaheal",
+            "id": "29S4JzoFUP1MCyMgKd83zM"
+          }
+        ],
+        "album": "Finding Her",
+        "album_id": "69xcXWqK1aN73KgVA2i3Zq",
+        "cover": "https://i.scdn.co/image/ab67616d00004851292341cd3e621d7f9171331f",
+        "seconds": 207.0,
+        "explicit": false
+      },
+      {
+        "id": "3GCp3YggcPIrSffx7OXY0e",
+        "name": "Often",
+        "artists": "The Weeknd",
+        "credited": [
+          {
+            "name": "The Weeknd",
+            "id": "1Xyo4u8uXC1ZmMpatF05PJ"
+          }
+        ],
+        "album": "Beauty Behind The Madness",
+        "album_id": "7itCnIV6547QPjB5pnRY6y",
+        "cover": "https://i.scdn.co/image/ab67616d000048518cab2b4eec5f4c5da4778c9c",
+        "seconds": 249.093,
+        "explicit": false
+      },
+      {
+        "id": "3qhlB30KknSejmIvZZLjOD",
+        "name": "End of Beginning",
+        "artists": "Djo",
+        "credited": [
+          {
+            "name": "Djo",
+            "id": "5p9HO3XC5P3BLxJs5Mtrhm"
+          }
+        ],
+        "album": "DECIDE",
+        "album_id": "4JDXBZdRPId4devseaAOKH",
+        "cover": "https://i.scdn.co/image/ab67616d00004851fddfffec51b4580acae727c1",
+        "seconds": 159.245,
+        "explicit": false
+      },
+      {
+        "id": "1qIlDhBsgunMisiV115mV7",
+        "name": "we fell in love in october - girl in red cover",
+        "artists": "Greyhound.",
+        "credited": [
+          {
+            "name": "Greyhound.",
+            "id": "5VrO4kfAdpFbsj9kdXjY73"
+          }
+        ],
+        "album": "we fell in love in october (girl in red cover)",
+        "album_id": "5XkOGzcQG1QgBsldwy1DjV",
+        "cover": "https://i.scdn.co/image/ab67616d00004851070ad554fb0fb2a6b4ad17de",
+        "seconds": 203.326,
+        "explicit": false
+      },
+      {
+        "id": "7MlDNspYwfqnHxORufupwq",
+        "name": "Sex, Drugs, Etc.",
+        "artists": "Beach Weather",
+        "credited": [
+          {
+            "name": "Beach Weather",
+            "id": "7I3bkknknQkIiatWiupQgD"
+          }
+        ],
+        "album": "Pineapple Sunrise",
+        "album_id": "7gA8QSNSZvHUYC9feFpeLj",
+        "cover": "https://i.scdn.co/image/ab67616d00004851511b07369101734098b14b0d",
+        "seconds": 196.784,
+        "explicit": false
+      },
+      {
+        "id": "3Yi3zlxsx6LvuXrkEUBPq8",
+        "name": "Swim (bass boosted) [feat. Chase Atlantic]",
+        "artists": "bass boosted, Chase Atlantic",
+        "credited": [
+          {
+            "name": "bass boosted",
+            "id": "3SNyiYP3dEjMGN1R1HEhgC"
+          },
+          {
+            "name": "Chase Atlantic",
+            "id": "7cYEt1pqMgXJdq00hAwVpT"
+          }
+        ],
+        "album": "Swim (bass boosted) [feat. Chase Atlantic]",
+        "album_id": "00BEbT3bn2VTgoxSIC6CjI",
+        "cover": "https://i.scdn.co/image/ab67616d0000485179f6696f0d877f37f4dab42f",
+        "seconds": 228.731,
+        "explicit": true
+      },
+      {
+        "id": "7mDTvYD2ieE4Q28XFziMfJ",
+        "name": "Cry",
+        "artists": "Cigarettes After Sex",
+        "credited": [
+          {
+            "name": "Cigarettes After Sex",
+            "id": "1QAJqy2dA3ihHBFIHRphZj"
+          }
+        ],
+        "album": "Cry",
+        "album_id": "63yRRBtLX8eqbOLD6f0y9U",
+        "cover": "https://i.scdn.co/image/ab67616d000048518324db1ae37be249aed887e7",
+        "seconds": 256.799,
+        "explicit": false
+      },
+      {
+        "id": "1oAwsWBovWRIp7qLMGPIet",
+        "name": "Apocalypse",
+        "artists": "Cigarettes After Sex",
+        "credited": [
+          {
+            "name": "Cigarettes After Sex",
+            "id": "1QAJqy2dA3ihHBFIHRphZj"
+          }
+        ],
+        "album": "Cigarettes After Sex",
+        "album_id": "5chTLnnxlxQVAgEv6YbEBe",
+        "cover": "https://i.scdn.co/image/ab67616d00004851dfed999f959177dfc4f33cdc",
+        "seconds": 290.146,
+        "explicit": false
+      },
+      {
+        "id": "6MvEnS4hoEjzrAxuJIvj5S",
+        "name": "West Coast - ZHU Remix",
+        "artists": "Lana Del Rey, ZHU",
+        "credited": [
+          {
+            "name": "Lana Del Rey",
+            "id": "00FQb4jTyendYWaN8pK0wa"
+          },
+          {
+            "name": "ZHU",
+            "id": "28j8lBWDdDSHSSt5oPlsX2"
+          }
+        ],
+        "album": "West Coast",
+        "album_id": "1DV1nkL7LYsPepkX2C5E2C",
+        "cover": "https://i.scdn.co/image/ab67616d00004851126430f18ea23c8e4d01ad03",
+        "seconds": 264.396,
+        "explicit": false
+      },
+      {
+        "id": "0WFryfbNKPXVtVQlz5dZ8H",
+        "name": "hotline (edit)",
+        "artists": "Billie Eilish",
+        "credited": [
+          {
+            "name": "Billie Eilish",
+            "id": "6qqNVTkY8uBg9cP3Jd7DAH"
+          }
+        ],
+        "album": "hotline (edit)",
+        "album_id": "5iq9BytomHl2yBtORjUlzP",
+        "cover": "https://i.scdn.co/image/ab67616d00004851c820a9669147be3addd7f221",
+        "seconds": 60.719,
+        "explicit": false
+      },
+      {
+        "id": "7gymMiUpp1AOYR5EiRDDrO",
+        "name": "Ethereal",
+        "artists": "Txmy",
+        "credited": [
+          {
+            "name": "Txmy",
+            "id": "5sHlUJiG0VTOGG6g9u3TFF"
+          }
+        ],
+        "album": "Ethereal",
+        "album_id": "0tdi4b0MZ7cMSLVxST3f14",
+        "cover": "https://i.scdn.co/image/ab67616d000048513ecfb69038cb68d0302099f3",
+        "seconds": 168.0,
+        "explicit": false
+      },
+      {
+        "id": "5z4AYfi1d5m2zZIgaWhiki",
+        "name": "Ethereal",
+        "artists": "mikeeysmind",
+        "credited": [
+          {
+            "name": "mikeeysmind",
+            "id": "0g0ZYLiNYI4kMg8MX76bkN"
+          }
+        ],
+        "album": "Ethereal",
+        "album_id": "48xQC3Sx5Cg5VWFxeHFoGF",
+        "cover": "https://i.scdn.co/image/ab67616d00004851e6e5cad01b62b4b9a62b5a78",
+        "seconds": 176.878,
+        "explicit": false
+      },
+      {
+        "id": "0u7Shj9zotYlZR1HTV04CX",
+        "name": "wildflower",
+        "artists": "yung kai",
+        "credited": [
+          {
+            "name": "yung kai",
+            "id": "6zO1dZ40fTZ5hY9NnnRJSk"
+          }
+        ],
+        "album": "wildflower",
+        "album_id": "3K4cEd76AbffzMtu8bEfz9",
+        "cover": "https://i.scdn.co/image/ab67616d0000485183451847fe7f8290a6a915b1",
+        "seconds": 175.243,
+        "explicit": false
+      },
+      {
+        "id": "3eGWxMyTyTmH3dHbJeWWv6",
+        "name": "Come and See Me (feat. Drake)",
+        "artists": "PARTYNEXTDOOR, Drake",
+        "credited": [
+          {
+            "name": "PARTYNEXTDOOR",
+            "id": "2HPaUgqeutzr3jx5a9WyDV"
+          },
+          {
+            "name": "Drake",
+            "id": "3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "album": "Come and See Me (feat. Drake)",
+        "album_id": "7clbtiJXmreKN2F5N8GUJX",
+        "cover": "https://i.scdn.co/image/ab67616d00004851280b95e856251af7404ca81f",
+        "seconds": 235.477,
+        "explicit": true
+      },
+      {
+        "id": "7bPWdJgx8vek7S5i5yAtvG",
+        "name": "Chemtrails Over The Country Club",
+        "artists": "Lana Del Rey",
+        "credited": [
+          {
+            "name": "Lana Del Rey",
+            "id": "00FQb4jTyendYWaN8pK0wa"
+          }
+        ],
+        "album": "Chemtrails Over The Country Club",
+        "album_id": "6QeosPQpJckkW0Obir5RT8",
+        "cover": "https://i.scdn.co/image/ab67616d00004851ca929c6e766cb8591a286e0d",
+        "seconds": 271.176,
+        "explicit": false
+      },
+      {
+        "id": "2mdEsXPu8ZmkHRRtAdC09e",
+        "name": "Cinnamon Girl",
+        "artists": "Lana Del Rey",
+        "credited": [
+          {
+            "name": "Lana Del Rey",
+            "id": "00FQb4jTyendYWaN8pK0wa"
+          }
+        ],
+        "album": "Norman Fucking Rockwell!",
+        "album_id": "5XpEKORZ4y6OrCZSKsi46A",
+        "cover": "https://i.scdn.co/image/ab67616d00004851879e9318cb9f4e05ee552ac9",
+        "seconds": 300.683,
+        "explicit": false
+      },
+      {
+        "id": "4UV1aekV3mXiKqJewTgGRo",
+        "name": "We All Knew (From \"Euphoria: Season 1\" Soundtrack)",
+        "artists": "Labrinth",
+        "credited": [
+          {
+            "name": "Labrinth",
+            "id": "2feDdbD5araYcm6JhFHHw7"
+          }
+        ],
+        "album": "Euphoria (Original Score from the HBO Series)",
+        "album_id": "788r22Bhr3IHLTNPy8pZea",
+        "cover": "https://i.scdn.co/image/ab67616d0000485189c39ba1acdf33ed7acd3867",
+        "seconds": 181.162,
+        "explicit": false
+      },
+      {
+        "id": "01Rc6yXYtujAnMaR1NME11",
+        "name": "I'll Keep You Safe",
+        "artists": "sagun, Shiloh Dynasty",
+        "credited": [
+          {
+            "name": "sagun",
+            "id": "4YJkA3YshwZ8FwljpMW0II"
+          },
+          {
+            "name": "Shiloh Dynasty",
+            "id": "1wxPItEzr7U7rGSMPqZ25r"
+          }
+        ],
+        "album": "I'll Keep You Safe",
+        "album_id": "0VKgiEdp517vGQAI9speIX",
+        "cover": "https://i.scdn.co/image/ab67616d0000485104b806670f734803b473fc75",
+        "seconds": 185.875,
+        "explicit": false
+      },
+      {
+        "id": "1v7ptGUBS2DbbRmfIG0hU2",
+        "name": "Touch",
+        "artists": "Cigarettes After Sex",
+        "credited": [
+          {
+            "name": "Cigarettes After Sex",
+            "id": "1QAJqy2dA3ihHBFIHRphZj"
+          }
+        ],
+        "album": "Cry",
+        "album_id": "63yRRBtLX8eqbOLD6f0y9U",
+        "cover": "https://i.scdn.co/image/ab67616d000048518324db1ae37be249aed887e7",
+        "seconds": 292.853,
+        "explicit": false
+      },
+      {
+        "id": "6G9YlbU3ByPJQvOFDRdwyM",
+        "name": "her",
+        "artists": "JVKE",
+        "credited": [
+          {
+            "name": "JVKE",
+            "id": "164Uj4eKjl6zTBKfJLFKKK"
+          }
+        ],
+        "album": "her",
+        "album_id": "6cUhnbhBBTFNb6z2w7llGx",
+        "cover": "https://i.scdn.co/image/ab67616d00004851a0934c15232680a3afc9da6e",
+        "seconds": 171.757,
+        "explicit": false
+      },
+      {
+        "id": "4zUob9iYFS9TgAR0hgo5pR",
+        "name": "Seoul City",
+        "artists": "JENNIE",
+        "credited": [
+          {
+            "name": "JENNIE",
+            "id": "250b0Wlc5Vk0CoUsaCY84M"
+          }
+        ],
+        "album": "Ruby",
+        "album_id": "4gBtLWLja2rOze5SknGdUZ",
+        "cover": "https://i.scdn.co/image/ab67616d000048517f86eab0ae4e3d318b92e0b9",
+        "seconds": 164.398,
+        "explicit": false
+      },
+      {
+        "id": "5XeFesFbtLpXzIVDNQP22n",
+        "name": "I Wanna Be Yours",
+        "artists": "Arctic Monkeys",
+        "credited": [
+          {
+            "name": "Arctic Monkeys",
+            "id": "7Ln80lUS6He07XvHI8qqHH"
+          }
+        ],
+        "album": "AM",
+        "album_id": "78bpIziExqiI9qztvNFlQu",
+        "cover": "https://i.scdn.co/image/ab67616d000048514ae1c4c5c45aabe565499163",
+        "seconds": 183.956,
+        "explicit": false
+      },
+      {
+        "id": "1PVLEHaqg5fUEgGoscBxTw",
+        "name": "Novacane",
+        "artists": "Shiloh Dynasty, Unclenathannn",
+        "credited": [
+          {
+            "name": "Shiloh Dynasty",
+            "id": "1wxPItEzr7U7rGSMPqZ25r"
+          },
+          {
+            "name": "Unclenathannn",
+            "id": "32Yftem1IqHK8e2aJWbvrm"
+          }
+        ],
+        "album": "Our Remedy",
+        "album_id": "6V2lt0FoMX07RfPr3lhv8W",
+        "cover": "https://i.scdn.co/image/ab67616d000048518cdfb1c37e6176e6d5ba730b",
+        "seconds": 146.253,
+        "explicit": false
+      },
+      {
+        "id": "42qNWdLKCI41S4uzfamhFM",
+        "name": "Duvet",
+        "artists": "bôa",
+        "credited": [
+          {
+            "name": "bôa",
+            "id": "5jTtGLk1mGFMY5lQOvJYUj"
+          }
+        ],
+        "album": "Twilight",
+        "album_id": "7sGYAV0xv7ZfAMzIpMl8m1",
+        "cover": "https://i.scdn.co/image/ab67616d000048516173e498401502583046f42c",
+        "seconds": 203.6,
+        "explicit": false
+      },
+      {
+        "id": "6MvEnS4hoEjzrAxuJIvj5S",
+        "name": "West Coast - ZHU Remix",
+        "artists": "Lana Del Rey, ZHU",
+        "credited": [
+          {
+            "name": "Lana Del Rey",
+            "id": "00FQb4jTyendYWaN8pK0wa"
+          },
+          {
+            "name": "ZHU",
+            "id": "28j8lBWDdDSHSSt5oPlsX2"
+          }
+        ],
+        "album": "West Coast",
+        "album_id": "1DV1nkL7LYsPepkX2C5E2C",
+        "cover": "https://i.scdn.co/image/ab67616d00004851126430f18ea23c8e4d01ad03",
+        "seconds": 264.396,
+        "explicit": false
+      },
+      {
+        "id": "01Mjc6LbGAMiXbgoccl6Hd",
+        "name": "Beanie",
+        "artists": "Chezile",
+        "credited": [
+          {
+            "name": "Chezile",
+            "id": "1EmdfupUQDpXOcb4Nj2mBH"
+          }
+        ],
+        "album": "Beanie",
+        "album_id": "2kVk1VA2JnBovMvsyGSyT9",
+        "cover": "https://i.scdn.co/image/ab67616d0000485102fc720ef97bce6208fe7b6f",
+        "seconds": 132.16,
+        "explicit": false
+      },
+      {
+        "id": "1Hv1VTm8zeOeybub15mA2R",
+        "name": "Smooth Operator - Single Version",
+        "artists": "Sade",
+        "credited": [
+          {
+            "name": "Sade",
+            "id": "47zz7sob9NUcODy0BTDvKx"
+          }
+        ],
+        "album": "The Best of Sade",
+        "album_id": "3uSWaQxJAdm5MWKQkQJNoK",
+        "cover": "https://i.scdn.co/image/ab67616d000048515e25e034e25258b356774c79",
+        "seconds": 258.693,
+        "explicit": false
+      },
+      {
+        "id": "6dVZCbi9CYtD9LjAHXRjIG",
+        "name": "Mask Off (feat. Kendrick Lamar) - Remix",
+        "artists": "Future, Kendrick Lamar",
+        "credited": [
+          {
+            "name": "Future",
+            "id": "1RyvyyTE3xzB2ZywiAwp0i"
+          },
+          {
+            "name": "Kendrick Lamar",
+            "id": "2YZyLoL8N0Wb9xBt1NhZWg"
+          }
+        ],
+        "album": "FUTURE",
+        "album_id": "17FBoXK1NU2rvJBbzdzw0r",
+        "cover": "https://i.scdn.co/image/ab67616d00004851e0b64c8be3c4e804abcb2696",
+        "seconds": 258.426,
+        "explicit": true
+      },
+      {
+        "id": "2XYAD5qw33UEOdErOSWFUy",
+        "name": "a tiny love",
+        "artists": "梶浦 由記",
+        "credited": [
+          {
+            "name": "梶浦 由記",
+            "id": "0BLHMPWOZ2aTI0ZCCbtZem"
+          }
+        ],
+        "album": "ソードアート・オンライン ミュージックコレクション",
+        "album_id": "7t3It6EP6isk5ZpBKgupYZ",
+        "cover": "https://i.scdn.co/image/ab67616d00004851136a8ed571891d091ed4715b",
+        "seconds": 103.973,
+        "explicit": false
+      },
+      {
+        "id": "6GGtHZgBycCgGBUhZo81xe",
+        "name": "Say Yes To Heaven",
+        "artists": "Lana Del Rey",
+        "credited": [
+          {
+            "name": "Lana Del Rey",
+            "id": "00FQb4jTyendYWaN8pK0wa"
+          }
+        ],
+        "album": "Say Yes To Heaven",
+        "album_id": "6jVg0POvGYH1Pt6lISl3ok",
+        "cover": "https://i.scdn.co/image/ab67616d00004851aa27708d07f49c82ff0d0dae",
+        "seconds": 209.156,
+        "explicit": false
+      },
+      {
+        "id": "42TDYAygmOh8TWKhjI8oJb",
+        "name": "One more time, One more chance",
+        "artists": "Masayoshi Yamazaki",
+        "credited": [
+          {
+            "name": "Masayoshi Yamazaki",
+            "id": "6gvedX0HcRQYMD5IhY8KKt"
+          }
+        ],
+        "album": "One more time, One more chance",
+        "album_id": "0ujbhu3kahThz1BdrbtHBy",
+        "cover": "https://i.scdn.co/image/ab67616d000048513e61d85b75ec03d5a953c018",
+        "seconds": 325.933,
+        "explicit": false
+      },
+      {
+        "id": "612bl0KHzyyxEhPzuMqM6e",
+        "name": "Golden Brown - Slowed Down Version",
+        "artists": "The Stranglers",
+        "credited": [
+          {
+            "name": "The Stranglers",
+            "id": "0RUEHcBiENFEqxgicqS2ig"
+          }
+        ],
+        "album": "Golden Brown",
+        "album_id": "6B9W97yJuTQvYL1ImrJJ6u",
+        "cover": "https://i.scdn.co/image/ab67616d000048510cf70d72827e4304c0e5a551",
+        "seconds": 248.494,
+        "explicit": false
+      },
+      {
+        "id": "2AX5E86cn9n2dgioZEjirI",
+        "name": "Golden Brown",
+        "artists": "The Stranglers",
+        "credited": [
+          {
+            "name": "The Stranglers",
+            "id": "0RUEHcBiENFEqxgicqS2ig"
+          }
+        ],
+        "album": "La Folie",
+        "album_id": "3bosyDPGOYmLnwMNhU06Rx",
+        "cover": "https://i.scdn.co/image/ab67616d0000485147066a9aac4e3493fe5b8677",
+        "seconds": 206.76,
+        "explicit": false
+      },
+      {
+        "id": "0N2myJtgLEWTqqGoatLECr",
+        "name": "sex, drugs, etc. - slowed + reverb",
+        "artists": "Slawd, Vallvete",
+        "credited": [
+          {
+            "name": "Slawd",
+            "id": "2Y8dB0vWLGGsU7QTs8fY9w"
+          },
+          {
+            "name": "Vallvete",
+            "id": "4yyfcLKNDz2p5nHRam1dGk"
+          }
+        ],
+        "album": "sex, drugs, etc. (slowed + reverb)",
+        "album_id": "2VrYJl4P1A5LBLK4Epxfqt",
+        "cover": "https://i.scdn.co/image/ab67616d000048515e7b03e6c6bd59ed389880e5",
+        "seconds": 218.092,
+        "explicit": true
+      },
+      {
+        "id": "375w3hl6qBGCF4pfOD9T6m",
+        "name": "WILDFLOWER - Instrumental",
+        "artists": "Ricardo Castro",
+        "credited": [
+          {
+            "name": "Ricardo Castro",
+            "id": "4NrWmrJQlAKWiaLyQKLTWK"
+          }
+        ],
+        "album": "WILDFLOWER (Instrumental)",
+        "album_id": "2BBASqgvIH4qFtDkXwHFtq",
+        "cover": "https://i.scdn.co/image/ab67616d00004851534892fd64e2ac6c029977df",
+        "seconds": 127.722,
+        "explicit": false
+      },
+      {
+        "id": "1gox1j2ntDzLopS41BJ9EH",
+        "name": "Redline",
+        "artists": "WDL, Pauline Kamusewu",
+        "credited": [
+          {
+            "name": "WDL",
+            "id": "7CvG0Ai6a66YcdF1nBX9yO"
+          },
+          {
+            "name": "Pauline Kamusewu",
+            "id": "1NOapyTqaQ5hosCfdqithT"
+          }
+        ],
+        "album": "No Wings Airline",
+        "album_id": "3CIYIvjoX0hWzCKbw0v5hr",
+        "cover": "https://i.scdn.co/image/ab67616d00004851db8105659ebf2b84234ef241",
+        "seconds": 235.653,
+        "explicit": false
+      },
+      {
+        "id": "4fdalZcclcvcx5N1lytlNL",
+        "name": "Million Dollar Man",
+        "artists": "Lana Del Rey",
+        "credited": [
+          {
+            "name": "Lana Del Rey",
+            "id": "00FQb4jTyendYWaN8pK0wa"
+          }
+        ],
+        "album": "Born To Die – Paradise Edition (Special Version)",
+        "album_id": "0Dt3FbpMQwjoT5KNAw0IXR",
+        "cover": "https://i.scdn.co/image/ab67616d00004851f894be72a77b1488292672c7",
+        "seconds": 230.12,
+        "explicit": false
+      },
+      {
+        "id": "3eGWxMyTyTmH3dHbJeWWv6",
+        "name": "Come and See Me (feat. Drake)",
+        "artists": "PARTYNEXTDOOR, Drake",
+        "credited": [
+          {
+            "name": "PARTYNEXTDOOR",
+            "id": "2HPaUgqeutzr3jx5a9WyDV"
+          },
+          {
+            "name": "Drake",
+            "id": "3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "album": "Come and See Me (feat. Drake)",
+        "album_id": "7clbtiJXmreKN2F5N8GUJX",
+        "cover": "https://i.scdn.co/image/ab67616d00004851280b95e856251af7404ca81f",
+        "seconds": 235.477,
+        "explicit": true
+      },
+      {
+        "id": "7bPWdJgx8vek7S5i5yAtvG",
+        "name": "Chemtrails Over The Country Club",
+        "artists": "Lana Del Rey",
+        "credited": [
+          {
+            "name": "Lana Del Rey",
+            "id": "00FQb4jTyendYWaN8pK0wa"
+          }
+        ],
+        "album": "Chemtrails Over The Country Club",
+        "album_id": "6QeosPQpJckkW0Obir5RT8",
+        "cover": "https://i.scdn.co/image/ab67616d00004851ca929c6e766cb8591a286e0d",
+        "seconds": 271.176,
+        "explicit": false
+      },
+      {
+        "id": "6KxgptZSrQC4Vv21ZBOG7S",
+        "name": "golden hour - Fujii Kaze Remix",
+        "artists": "JVKE, Fujii Kaze",
+        "credited": [
+          {
+            "name": "JVKE",
+            "id": "164Uj4eKjl6zTBKfJLFKKK"
+          },
+          {
+            "name": "Fujii Kaze",
+            "id": "6bDWAcdtVR3WHz2xtiIPUi"
+          }
+        ],
+        "album": "golden hour (Fujii Kaze Remix)",
+        "album_id": "0Csmj0RDEYXg1ZW12fekwM",
+        "cover": "https://i.scdn.co/image/ab67616d000048514a18877eb76234a05ea325a8",
+        "seconds": 159.0,
+        "explicit": false
+      },
+      {
+        "id": "7Cd7c8ATgbiNAsYC8MxCSX",
+        "name": "Those Eyes",
+        "artists": "New West",
+        "credited": [
+          {
+            "name": "New West",
+            "id": "69bG9tC62d8oTFC9aTTosn"
+          }
+        ],
+        "album": "Call Me When You Hear This Song",
+        "album_id": "7eMb9KBOVlx7h87Pyjrct7",
+        "cover": "https://i.scdn.co/image/ab67616d00004851e4e8357d916dab867b1f27af",
+        "seconds": 220.75,
+        "explicit": false
+      },
+      {
+        "id": "1oE6bVjho2LQdTkDMq43Yd",
+        "name": "Losing Interest",
+        "artists": "CuBox, Shiloh Dynasty",
+        "credited": [
+          {
+            "name": "CuBox",
+            "id": "4zlFLeqKTteBjaFysGR9CU"
+          },
+          {
+            "name": "Shiloh Dynasty",
+            "id": "1wxPItEzr7U7rGSMPqZ25r"
+          }
+        ],
+        "album": "Japan",
+        "album_id": "0ebBY53dSSoq5xxcm2NUDX",
+        "cover": "https://i.scdn.co/image/ab67616d00004851fe4ff600151e8412c2fd84d2",
+        "seconds": 170.027,
+        "explicit": false
+      },
+      {
+        "id": "18h0XAxWXEkvGPGmMmk0ug",
+        "name": "How Can You Say",
+        "artists": "Elijah Gonzales, Shiloh Dynasty",
+        "credited": [
+          {
+            "name": "Elijah Gonzales",
+            "id": "5x9D1BQ3KrPulWex1fEqqd"
+          },
+          {
+            "name": "Shiloh Dynasty",
+            "id": "1wxPItEzr7U7rGSMPqZ25r"
+          }
+        ],
+        "album": "How Can You Say",
+        "album_id": "1xnz8cMJwnfGMY2gUcLH2s",
+        "cover": "https://i.scdn.co/image/ab67616d00004851ced0b907bb9d87b6997edc1e",
+        "seconds": 134.002,
+        "explicit": false
+      },
+      {
+        "id": "5e2l2ZAMwHmrkdM4Z6NhAR",
+        "name": "Again",
+        "artists": "Shiloh Dynasty, timmies",
+        "credited": [
+          {
+            "name": "Shiloh Dynasty",
+            "id": "1wxPItEzr7U7rGSMPqZ25r"
+          },
+          {
+            "name": "timmies",
+            "id": "1AUZYkS7eLmZUnBjQyJmwf"
+          }
+        ],
+        "album": "Vivid Pictures",
+        "album_id": "7rLy1bJQKR3hQnjtEkn1Lm",
+        "cover": "https://i.scdn.co/image/ab67616d00004851a96efbf231ca824132bfd2fc",
+        "seconds": 157.205,
+        "explicit": false
+      },
+      {
+        "id": "6G9YlbU3ByPJQvOFDRdwyM",
+        "name": "her",
+        "artists": "JVKE",
+        "credited": [
+          {
+            "name": "JVKE",
+            "id": "164Uj4eKjl6zTBKfJLFKKK"
+          }
+        ],
+        "album": "her",
+        "album_id": "6cUhnbhBBTFNb6z2w7llGx",
+        "cover": "https://i.scdn.co/image/ab67616d00004851a0934c15232680a3afc9da6e",
+        "seconds": 171.757,
+        "explicit": false
+      },
+      {
+        "id": "3hB9lDLyAClYVZivMMl20N",
+        "name": "Co2",
+        "artists": "Prateek Kuhad",
+        "credited": [
+          {
+            "name": "Prateek Kuhad",
+            "id": "0tC995Rfn9k2l7nqgCZsV7"
+          }
+        ],
+        "album": "The Way That Lovers Do",
+        "album_id": "4WLh56ZjwINYBNhaxLvEhA",
+        "cover": "https://i.scdn.co/image/ab67616d00004851dc8799fc0000992578ec96e9",
+        "seconds": 163.653,
+        "explicit": false
+      },
+      {
+        "id": "21qg0IBZf8R12qHd9A3AA4",
+        "name": "Salvatore",
+        "artists": "Lana Del Rey",
+        "credited": [
+          {
+            "name": "Lana Del Rey",
+            "id": "00FQb4jTyendYWaN8pK0wa"
+          }
+        ],
+        "album": "Honeymoon",
+        "album_id": "2DpEBrjCur1ythIZ10gJWw",
+        "cover": "https://i.scdn.co/image/ab67616d00004851a3b3f48ca81acacb3ad4ec8a",
+        "seconds": 281.093,
+        "explicit": false
+      },
+      {
+        "id": "4RF4iaYoM1XBbdvmC6zRtD",
+        "name": "Lilith",
+        "artists": "Saint Avangeline",
+        "credited": [
+          {
+            "name": "Saint Avangeline",
+            "id": "0j49VqyyFRbclqg8Jv3Sdq"
+          }
+        ],
+        "album": "Gardener of Eden",
+        "album_id": "4p5V21sNL5vwaU4JEvAhjp",
+        "cover": "https://i.scdn.co/image/ab67616d0000485127b470ee2ad6b70fa4c73c34",
+        "seconds": 255.709,
+        "explicit": false
+      },
+      {
+        "id": "5WbfFTuIldjL9x7W6y5l7R",
+        "name": "Kingston",
+        "artists": "Faye Webster",
+        "credited": [
+          {
+            "name": "Faye Webster",
+            "id": "5szilpXHcwOqnyKLqGco5j"
+          }
+        ],
+        "album": "Atlanta Millionaires Club",
+        "album_id": "7jXmmQ1gNTXHyTF7uvH4Tn",
+        "cover": "https://i.scdn.co/image/ab67616d00004851ac4ebd092fa2cf210e4c8023",
+        "seconds": 202.653,
+        "explicit": false
+      },
+      {
+        "id": "3siwsiaEoU4Kuuc9WKMUy5",
+        "name": "No One Noticed",
+        "artists": "The Marías",
+        "credited": [
+          {
+            "name": "The Marías",
+            "id": "2sSGPbdZJkaSE2AbcGOACx"
+          }
+        ],
+        "album": "Submarine",
+        "album_id": "03guxdOi12XJbnvxvxbpwG",
+        "cover": "https://i.scdn.co/image/ab67616d000048518aa339341a0b0c813909c831",
+        "seconds": 236.906,
+        "explicit": false
+      },
+      {
+        "id": "4R1JcH7h530B9vnJSEFNpH",
+        "name": "Oblivion",
+        "artists": "Rufi-O, Lily Potter",
+        "credited": [
+          {
+            "name": "Rufi-O",
+            "id": "5GKakcgOxfujEnTZOffcRn"
+          },
+          {
+            "name": "Lily Potter",
+            "id": "3kcD3ZRH9oUwWSvQNVvMli"
+          }
+        ],
+        "album": "Oblivion",
+        "album_id": "2WOF6LnfdaqEQJa7EqYiXt",
+        "cover": "https://i.scdn.co/image/ab67616d00004851aee394e86509749f75a7161a",
+        "seconds": 152.92,
+        "explicit": false
+      },
+      {
+        "id": "1Ia855HV2kaNlTnwPROnqD",
+        "name": "So long",
+        "artists": "Shiloh Dynasty, VNI.",
+        "credited": [
+          {
+            "name": "Shiloh Dynasty",
+            "id": "1wxPItEzr7U7rGSMPqZ25r"
+          },
+          {
+            "name": "VNI.",
+            "id": "2JZTHhfI0DBTNuFQzyogvZ"
+          }
+        ],
+        "album": "High Last Night",
+        "album_id": "6F0wKGDX1poP8VnyyV97u5",
+        "cover": "https://i.scdn.co/image/ab67616d00004851aad9d419cc6040c3162564cc",
+        "seconds": 76.045,
+        "explicit": true
+      },
+      {
+        "id": "01Rc6yXYtujAnMaR1NME11",
+        "name": "I'll Keep You Safe",
+        "artists": "sagun, Shiloh Dynasty",
+        "credited": [
+          {
+            "name": "sagun",
+            "id": "4YJkA3YshwZ8FwljpMW0II"
+          },
+          {
+            "name": "Shiloh Dynasty",
+            "id": "1wxPItEzr7U7rGSMPqZ25r"
+          }
+        ],
+        "album": "I'll Keep You Safe",
+        "album_id": "0VKgiEdp517vGQAI9speIX",
+        "cover": "https://i.scdn.co/image/ab67616d0000485104b806670f734803b473fc75",
+        "seconds": 185.875,
+        "explicit": false
+      },
+      {
+        "id": "6BFnRhvKCclDQOajt8dBGi",
+        "name": "Diet Mountain Dew",
+        "artists": "Lana Del Rey",
+        "credited": [
+          {
+            "name": "Lana Del Rey",
+            "id": "00FQb4jTyendYWaN8pK0wa"
+          }
+        ],
+        "album": "Born To Die – Paradise Edition (Special Version)",
+        "album_id": "0Dt3FbpMQwjoT5KNAw0IXR",
+        "cover": "https://i.scdn.co/image/ab67616d00004851f894be72a77b1488292672c7",
+        "seconds": 222.92,
+        "explicit": false
+      },
+      {
+        "id": "2eAvDnpXP5W0cVtiI0PUxV",
+        "name": "Dandelions",
+        "artists": "Ruth B.",
+        "credited": [
+          {
+            "name": "Ruth B.",
+            "id": "2WzaAvm2bBCf4pEhyuDgCY"
+          }
+        ],
+        "album": "Safe Haven",
+        "album_id": "6FgtuX3PtiB5civjHYhc52",
+        "cover": "https://i.scdn.co/image/ab67616d00004851b09403f05bc0c306cf96990f",
+        "seconds": 233.72,
+        "explicit": false
+      },
+      {
+        "id": "75SW8IItf7yy1VejSLtv9W",
+        "name": "Baby You're Worth It",
+        "artists": "Kina",
+        "credited": [
+          {
+            "name": "Kina",
+            "id": "4qIVPF0s71ZYW3qzhu5GkF"
+          }
+        ],
+        "album": "Baby You're Worth It",
+        "album_id": "62r72iOYRvaKELSijiyWYX",
+        "cover": "https://i.scdn.co/image/ab67616d00004851c1b76bcb92f850423bc01370",
+        "seconds": 130.947,
+        "explicit": false
+      },
+      {
+        "id": "2xql0pid3EUwW38AsywxhV",
+        "name": "Reflections",
+        "artists": "The Neighbourhood",
+        "credited": [
+          {
+            "name": "The Neighbourhood",
+            "id": "77SW9BnxLY8rJ0RciFqkHh"
+          }
+        ],
+        "album": "Hard To Imagine The Neighbourhood Ever Changing",
+        "album_id": "0ODLCdHBFVvKwJGeSfd1jy",
+        "cover": "https://i.scdn.co/image/ab67616d000048519b6ac98a52f62d5cb473da40",
+        "seconds": 244.013,
+        "explicit": false
+      },
+      {
+        "id": "03Z4tueYwswdf9lC0GXfGI",
+        "name": "if I had the money love",
+        "artists": "gsounds99, Shiloh Dynasty",
+        "credited": [
+          {
+            "name": "gsounds99",
+            "id": "2XxkEAmyXgjnGqE2nhabB0"
+          },
+          {
+            "name": "Shiloh Dynasty",
+            "id": "1wxPItEzr7U7rGSMPqZ25r"
+          }
+        ],
+        "album": "if I had the money love",
+        "album_id": "5A8esJbvycIgkhCcoZNFdt",
+        "cover": "https://i.scdn.co/image/ab67616d000048513ba90b688d0cd76b26556bb4",
+        "seconds": 187.875,
+        "explicit": false
+      },
+      {
+        "id": "40OZkN8qle7lxaovVrn1QY",
+        "name": "People (feat. Becky G)",
+        "artists": "Libianca, Becky G",
+        "credited": [
+          {
+            "name": "Libianca",
+            "id": "7kjSuFGKhLm8b5qXoMhRkJ"
+          },
+          {
+            "name": "Becky G",
+            "id": "4obzFoKoKRHIphyHzJ35G3"
+          }
+        ],
+        "album": "People (feat. Becky G) [Remixes]",
+        "album_id": "49TVWS0iWtQ7ZAQFzqqpoB",
+        "cover": "https://i.scdn.co/image/ab67616d00004851f7e1dc1bc7574b77ecd30262",
+        "seconds": 202.76,
+        "explicit": false
+      },
+      {
+        "id": "58wyJLv6yH1La9NIZPl3ne",
+        "name": "Can We Kiss Forever?",
+        "artists": "Kina, Adriana Proenza",
+        "credited": [
+          {
+            "name": "Kina",
+            "id": "4qIVPF0s71ZYW3qzhu5GkF"
+          },
+          {
+            "name": "Adriana Proenza",
+            "id": "7KHA7OOevgTDFhlym0oEyP"
+          }
+        ],
+        "album": "Can We Kiss Forever?",
+        "album_id": "0MGcjBIFcL2qaCrgGjIGFb",
+        "cover": "https://i.scdn.co/image/ab67616d0000485113584782bb6d165483d296ed",
+        "seconds": 187.931,
+        "explicit": false
+      },
+      {
+        "id": "5pebgx4IJ5YvZH2sYOHDRf",
+        "name": "Your Eyes",
+        "artists": "Barney Sku, Taqiya Zaman",
+        "credited": [
+          {
+            "name": "Barney Sku",
+            "id": "77ziiu02mos4YrZ4mpWO0v"
+          },
+          {
+            "name": "Taqiya Zaman",
+            "id": "0PabKDsomoLc4uPtBGNodI"
+          }
+        ],
+        "album": "Your Eyes",
+        "album_id": "04NKJp5REYxjBzQdNAbByt",
+        "cover": "https://i.scdn.co/image/ab67616d000048517704566a51ab17c885221bde",
+        "seconds": 107.081,
+        "explicit": false
+      },
+      {
+        "id": "6NOq79ynBpBi6BSJMdgReN",
+        "name": "Ocean Eyes - Astronomyy Remix",
+        "artists": "Billie Eilish, Astronomyy",
+        "credited": [
+          {
+            "name": "Billie Eilish",
+            "id": "6qqNVTkY8uBg9cP3Jd7DAH"
+          },
+          {
+            "name": "Astronomyy",
+            "id": "3EpmmPtV7DduqNmeqaADIm"
+          }
+        ],
+        "album": "Ocean Eyes (The Remixes)",
+        "album_id": "44OSkEmvHwdTFhPBCewIks",
+        "cover": "https://i.scdn.co/image/ab67616d000048512dc817144c8081281f77508d",
+        "seconds": 296.266,
+        "explicit": false
+      },
+      {
+        "id": "3QhfFRPkhPCR1RMJWV1gde",
+        "name": "Radio",
+        "artists": "Lana Del Rey",
+        "credited": [
+          {
+            "name": "Lana Del Rey",
+            "id": "00FQb4jTyendYWaN8pK0wa"
+          }
+        ],
+        "album": "Born To Die – Paradise Edition (Special Version)",
+        "album_id": "0Dt3FbpMQwjoT5KNAw0IXR",
+        "cover": "https://i.scdn.co/image/ab67616d00004851f894be72a77b1488292672c7",
+        "seconds": 214.586,
+        "explicit": true
+      },
+      {
+        "id": "6dBUzqjtbnIa1TwYbyw5CM",
+        "name": "Lovers Rock",
+        "artists": "TV Girl",
+        "credited": [
+          {
+            "name": "TV Girl",
+            "id": "0Y6dVaC9DZtPNH4591M42W"
+          }
+        ],
+        "album": "French Exit",
+        "album_id": "4Hai0uVzRbyTSaTPzxTY4e",
+        "cover": "https://i.scdn.co/image/ab67616d00004851e1bc1af856b42dd7fdba9f84",
+        "seconds": 213.92,
+        "explicit": false
+      },
+      {
+        "id": "4qW3BbQAwZsrnu8a3ZRdyT",
+        "name": "Self Aware",
+        "artists": "Temper City",
+        "credited": [
+          {
+            "name": "Temper City",
+            "id": "5mHUmlJWkcoOk1NbjfrXWz"
+          }
+        ],
+        "album": "Self Aware",
+        "album_id": "7Cdqksm4yTfiq0EfKPa86M",
+        "cover": "https://i.scdn.co/image/ab67616d00004851d6c26d2ae723f7ab553d64cc",
+        "seconds": 180.74,
+        "explicit": false
+      },
+      {
+        "id": "1WN4uNclrDuczTO3bCr8s1",
+        "name": "Be My Baby",
+        "artists": "The Ronettes",
+        "credited": [
+          {
+            "name": "The Ronettes",
+            "id": "7CyeXFnOrfC1N6z4naIpgo"
+          }
+        ],
+        "album": "Presenting the Fabulous Ronettes Featuring Veronica",
+        "album_id": "0CoNLgOwcZGBUSwd9fAZuy",
+        "cover": "https://i.scdn.co/image/ab67616d00004851b298efc29df3b69ec3f0d675",
+        "seconds": 160.906,
+        "explicit": false
+      },
+      {
+        "id": "1WN4uNclrDuczTO3bCr8s1",
+        "name": "Be My Baby",
+        "artists": "The Ronettes",
+        "credited": [
+          {
+            "name": "The Ronettes",
+            "id": "7CyeXFnOrfC1N6z4naIpgo"
+          }
+        ],
+        "album": "Presenting the Fabulous Ronettes Featuring Veronica",
+        "album_id": "0CoNLgOwcZGBUSwd9fAZuy",
+        "cover": "https://i.scdn.co/image/ab67616d00004851b298efc29df3b69ec3f0d675",
+        "seconds": 160.906,
+        "explicit": false
+      },
+      {
+        "id": "7KA4W4McWYRpgf0fWsJZWB",
+        "name": "See You Again (feat. Kali Uchis)",
+        "artists": "Tyler, The Creator, Kali Uchis",
+        "credited": [
+          {
+            "name": "Tyler, The Creator",
+            "id": "4V8LLVI7PbaPR0K2TGSxFF"
+          },
+          {
+            "name": "Kali Uchis",
+            "id": "1U1el3k54VvEUzo3ybLPlM"
+          }
+        ],
+        "album": "Flower Boy",
+        "album_id": "2nkto6YNI4rUYTLqEwWJ3o",
+        "cover": "https://i.scdn.co/image/ab67616d000048518940ac99f49e44f59e6f7fb3",
+        "seconds": 180.386,
+        "explicit": true
+      },
+      {
+        "id": "7ef4DlsgrMEH11cDZd32M6",
+        "name": "One Kiss (with Dua Lipa)",
+        "artists": "Calvin Harris, Dua Lipa",
+        "credited": [
+          {
+            "name": "Calvin Harris",
+            "id": "7CajNmpbOovFoOoasH2HaY"
+          },
+          {
+            "name": "Dua Lipa",
+            "id": "6M2wZ9GZgrQXHCFfjv46we"
+          }
+        ],
+        "album": "One Kiss (with Dua Lipa)",
+        "album_id": "7GEzhoTiqcPYkOprWQu581",
+        "cover": "https://i.scdn.co/image/ab67616d00004851d09f96d82310d4d77c14c108",
+        "seconds": 214.846,
+        "explicit": false
+      },
+      {
+        "id": "3pY2M4k9BSk7ulLBSV0tcX",
+        "name": "Seoul City",
+        "artists": "JENNIE",
+        "credited": [
+          {
+            "name": "JENNIE",
+            "id": "250b0Wlc5Vk0CoUsaCY84M"
+          }
+        ],
+        "album": "Ruby",
+        "album_id": "1vWMw6pu3err6qqZzI3RhH",
+        "cover": "https://i.scdn.co/image/ab67616d00004851dcf27dec5e479b2e39c4c993",
+        "seconds": 164.398,
+        "explicit": false
+      }
+    ]
+  },
+  "window": {
+    "x": 0.0,
+    "y": 0.0,
+    "width": 1920.0,
+    "height": 1080.0,
+    "maximized": true
+  },
+  "appearance": {
+    "theme": "dark",
+    "adaptive_theme": true,
+    "visualizer": true,
+    "icons": "iconoir",
+    "rounding": "round",
+    "font_size": 14.0,
+    "transparent": false,
+    "transparency": 0.15,
+    "window_controls": false,
+    "controls_on_left": false,
+    "reduce_motion": "always",
+    "motion_pace": "base",
+    "battery_saver": "strong",
+    "system_theme": "dark",
+    "theme_overrides": {
+      "background": null,
+      "foreground": null,
+      "border": null,
+      "muted": null,
+      "overlay": null,
+      "overlay_foreground": null,
+      "muted_foreground": null,
+      "secondary": null,
+      "secondary_hover": null,
+      "secondary_active": null,
+      "primary": null,
+      "primary_foreground": null,
+      "primary_hover": null,
+      "danger": null,
+      "danger_foreground": null,
+      "danger_hover": null,
+      "popover": null,
+      "popover_foreground": null,
+      "progress_bar": null,
+      "selection": null,
+      "sidebar": null,
+      "sidebar_accent": null,
+      "sidebar_border": null,
+      "title_bar_border": null,
+      "table_head": null,
+      "table_head_foreground": null,
+      "table_row_border": null,
+      "table_hover": null,
+      "table_active": null,
+      "table_active_border": null,
+      "radius": null,
+      "font_size": null
+    }
+  }
+}

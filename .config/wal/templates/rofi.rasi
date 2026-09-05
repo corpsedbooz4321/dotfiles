@@ -1,5 +1,5 @@
 * {{
-    background: {background}FF;
+    background: {background}BF;
     background-alt: {color0}FF;
     foreground: {foreground}FF;
     selected: {color4}FF;
