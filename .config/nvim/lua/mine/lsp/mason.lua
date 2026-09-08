@@ -27,7 +27,6 @@ return {
     opts = {
       ensure_installed = {
         "clang-format",
-        "csharpier",
         "prettierd",
         "ruff",
         "stylua",

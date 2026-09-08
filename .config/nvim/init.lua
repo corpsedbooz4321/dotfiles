@@ -3,6 +3,7 @@ require("mine.lazy.lazy")
 
 -- Keep Neovim rooted to the directory it was launched from so Snacks/Telescope
 -- do not jump to the parent git repo or home directory.
+vim.lsp.inlay_hint.enable = function() end
 
 require("mine.config.keymaps")
 require("mine.config.options")

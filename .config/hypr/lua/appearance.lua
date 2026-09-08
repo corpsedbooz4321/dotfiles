@@ -19,12 +19,12 @@ hl.config({
 		col = {
 			active_border = {
 				colors = {
-					"rgba(61afefff)",
-					"rgba(528bffff)",
+					"rgba(7aa2f7ee)",
+					"rgba(bb9af7ee)",
 				},
 				angle = 45,
 			},
-			inactive_border = "rgba(45475aaa)",
+			inactive_border = "rgba(585b70aa)",
 		},
 		resize_on_border = false,
 		allow_tearing = true,
@@ -45,8 +45,8 @@ hl.config({
 
 		blur = {
 			enabled = true,
-			size = 5,
-			passes = 4,
+			size = 4,
+			passes = 3,
 			vibrancy = 0.1696,
 			ignore_opacity = true,
 			xray = true,
