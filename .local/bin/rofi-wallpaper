@@ -19,6 +19,3 @@ WALL="$WALL_DIR/$CATEGORY/$WALL_NAME"
 mkdir -p "$HOME/.config/yazi/flavors/pywal.yazi"
 cp "$HOME/.cache/wal/theme.toml" "$HOME/.config/yazi/flavors/pywal.yazi/flavor.toml" 2>/dev/null
 
-# Notify (delayed so it fires after setwal/theme reload settle) ---
-( sleep 1 && notify-send -t 5000 "Wallpaper changed" "$CATEGORY / $WALL_NAME" ) &
-disown

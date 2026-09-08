@@ -14,7 +14,7 @@ pgrep -x "awww-daemon" >/dev/null || (
 )
 
 # Set wallpaper (awww with animation)
-awww img "$img" --transition-type grow --transition-duration 1
+awww img "$img" --transition-type fade --transition-duration 2
 
 # Generate colors
 wal -i "$img"
