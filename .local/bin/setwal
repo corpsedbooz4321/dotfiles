@@ -17,7 +17,7 @@ pgrep -x "awww-daemon" >/dev/null || (
 awww img "$img" --transition-type fade --transition-duration 2
 
 # Generate colors
-wal -i "$img"
+wal -i "$img" &
 
 
 # Live colors reload for Kitty

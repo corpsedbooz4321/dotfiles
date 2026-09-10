@@ -41,6 +41,13 @@
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Alan Walker/World of Walker (2021-11-26)/13 - OK.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Alan Walker/World of Walker (2021-11-26)/14 - Hummell Gets the Rockets (Alan Walker remix).mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Alan Walker/World of Walker (2021-11-26)/15 - Not You.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Amit Trivedi/Qala (Music From The Netflix Film)/Ghodey Pe Sawaar.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Amit Trivedi/Qala (Music From The Netflix Film)/Rubaaiyaan.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Amit Trivedi/Qala (Music From The Netflix Film)/Phero Na Najariya.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Amit Trivedi/Qala (Music From The Netflix Film)/Shauq.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Amit Trivedi/Qala (Music From The Netflix Film)/Nirbhau Nirvair.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Sagar Desai/Qala (Music From The Netflix Film)/Udh Jaayega.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Andrea Vanzo & Gibran Alcocer/Idea 25 - Single/Idea 25.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Anuv Jain/Baarishein/Baarishein(MP3_320K).mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Anuv Jain/Baarishein (Acoustic)/Baarishein (Acoustic)(MP3_320K).mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Anuv Jain/Ocean/Ocean(MP3_320K).mp3
@@ -116,6 +123,7 @@
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Arctic Monkeys/AM (2013-09-09)/10 - Snap Out of It.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Arctic Monkeys/AM (2013-09-09)/11 - Knee Socks.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Arctic Monkeys/AM (2013-09-09)/12 - I Wanna Be Yours.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Arctic Monkeys/AM (2013-09-09)/Arabella - Arctic Monkeys.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Arctic Monkeys/Tranquility Base Hotel + Casino (2018-05-11)/01 - Star Treatment.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Arctic Monkeys/Tranquility Base Hotel + Casino (2018-05-11)/02 - One Point Perspective.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Arctic Monkeys/Tranquility Base Hotel + Casino (2018-05-11)/03 - American Sports.mp3
@@ -556,6 +564,24 @@
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Artists/Egzod, Maestro Chives & Neoni/Albums/Royalty (sped up_slowed)/Royalty (Slowed   Reverb)(MP3_320K).mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Artists/Egzod, Maestro Chives & Neoni/Albums/Royalty (sped up_slowed)/Royalty (Super Slowed   Reverb)(MP3_320K).mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Artists/Egzod, Maestro Chives & Neoni/Albums/Royalty (sped up_slowed)/Royalty (Sped Up_Nightcore)(MP3_320K).mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Empire Of The Sun/Walking on a Dream (10th Anniversary Edition)/We Are the People.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Empire Of The Sun/Walking On a Dream (Special Edition)/Standing On the Shore.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Empire Of The Sun/Walking On a Dream (Special Edition)/Walking On a Dream.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Empire Of The Sun/Walking On a Dream (Special Edition)/Half Mast.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Empire Of The Sun/Walking On a Dream (Special Edition)/Country.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Empire Of The Sun/Walking On a Dream (Special Edition)/Without You.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Empire Of The Sun/Walking On a Dream (Special Edition)/Breakdown.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Empire Of The Sun/Walking On a Dream (Special Edition)/Romance to Me.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Empire Of The Sun/Walking On a Dream (Special Edition)/Walking On a Dream (Sam la More 12 Remix).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Empire Of The Sun/Walking On a Dream (Special Edition)/Standing On the Shore (Losers Remix).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Empire Of The Sun/Walking On a Dream (Special Edition)/We Are the People (The Shapeshifters Vocal Remix).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Empire Of The Sun/Walking On a Dream (Special Edition)/Without You (New Version).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Empire Of The Sun/Walking On a Dream (Special Edition)/Swordfish Hotkiss Night (Eron Mezza Remix).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Empire Of The Sun/Walking On a Dream (Special Edition)/Standing On the Shore (Hey Today! Remix).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Empire Of The Sun/Walking On a Dream (Special Edition)/Walking On a Dream (Ben Watt Remix).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Empire Of The Sun/Walking On a Dream (Special Edition)/We Are the People (Shazam Remix).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Empire Of The Sun/Walking On a Dream (Special Edition)/Girl.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Empire Of The Sun/Walking On a Dream (Special Edition)/Etude.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Faye Webster/Albums/Atlanta Millionaires Club - 2019/01 - Room Temperature.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Faye Webster/Albums/Atlanta Millionaires Club - 2019/02 - Right Side of My Neck.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Faye Webster/Albums/Atlanta Millionaires Club - 2019/03 - Hurts Me Too.mp3
@@ -635,12 +661,27 @@
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/GenriX, CORBAL, Shiloh Dynasty/unfortunately yours,/i don't want you (Slowed) - GenriX, CORBAL, Shiloh Dynasty.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/GenriX, CORBAL, Shiloh Dynasty/unfortunately yours,/long nights (Slowed) - GenriX, CORBAL, Shiloh Dynasty.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Gibran Alcocer/Singles/Idea 22 - 2022/01 - Idea 22.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Gibran Alcocer/Idea 10 - Single/Idea 10.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Gibran Alcocer/Idea 1 - Single/Idea 1.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Gibran Alcocer/Solas - Single/Solas.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Gibran Alcocer/Idea 22 - Single/Idea 22.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Gibran Alcocer/Singles/Idea 7 - 2023/01 - Idea 7.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Gibran Alcocer/Hotline Bling - Single/Hotline Bling.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Gibran Alcocer/Idea 9 - Single/Idea 9.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Gibran Alcocer/Idea 15 - Single/Idea 15.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Gibran Alcocer/Idea 7 - Single/Idea 7.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Gibran Alcocer/Singles/Idea 20 - 2024/01 - Idea 20.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Gibran Alcocer/Singles/Idea 20 - 2024/02 - Idea 20 (Orchestral Version).mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Gibran Alcocer/Singles/Idea 5 - 2024/01 - Idea 5.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Gibran Alcocer/Idea 5 - Single/Idea 5.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Gibran Alcocer/Singles/Idea 12 - 2025/01 - Idea 12.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Gibran Alcocer/Idea 12 - Single/Idea 12.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Gibran Alcocer/Idea 12 (feat. Elaina Rae & Emilia Ali) - Single/Idea 12 (feat. Elaina Rae & Emilia Ali).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Gibran Alcocer/Idea 19 - Single/Idea 19.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Gibran Alcocer/Idea 8 - Single/Idea 8.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Gibran Alcocer/Idea 22 (Anya Nami Remix) - Single/Idea 22 (Anya Nami Remix).flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Gibran Alcocer/Singles/Oblivion - 2025/01 - Oblivion.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Gibran Alcocer & Juan Arenosa/Oblivion - Single/Oblivion.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/girl in red/we fell in love in october _ October Passed Me By (2018-11-21)/01 - we fell in love in october.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/girl in red/we fell in love in october _ October Passed Me By (2018-11-21)/02 - October Passed Me By.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/girl in red/we fell in love in october _ October Passed Me By (2018-11-21)/03 - forget her.mp3
@@ -665,6 +706,109 @@
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/girl in red/I’M DOING IT AGAIN BABY! (2024-04-12)/08 - Ugly Side.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/girl in red/I’M DOING IT AGAIN BABY! (2024-04-12)/09 - New Love.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/girl in red/I’M DOING IT AGAIN BABY! (2024-04-12)/10 - ★★★★★.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Way Their Crept/Second Wind Zombie Skin.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Way Their Crept/Untitled.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Way Their Crept/Way Their Crept.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Way Their Crept/Hold a Desert, Feel It's Hand.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Way Their Crept/Second Skin Zombie Wind.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Way Their Crept/Sang Their Way.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Way Their Crept/Black Out.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Way Their Crept/Adorned.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Way Their Crept/Close Cloak.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Way Their Crept/Sedon Wind Zombie Skin.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Way Their Crept/Where It Goes.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Wide/Make Me Over.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Wide/Little Boat Bone Dance (Audrey).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Wide/Imposter In the Sky.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Wide/Giving It to You.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Wide/Agate Beach.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Wide/They Moved Everything.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Wide/Black Blood.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Wide/Shadow Rise, Drowned.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Wide/Wide.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Cover the Windows and the Walls/Cover the Windows and the Walls.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Cover the Windows and the Walls/Opened Space.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Cover the Windows and the Walls/It Feels Alright.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Cover the Windows and the Walls/You Never Came.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Cover the Windows and the Walls/Follow In Our Dreams.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Poison Tree - Single/Poison Tree.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Dragging a Dead Deer Up a Hill/Disengaged.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Dragging a Dead Deer Up a Hill/Heavy Water I'd Rather Be Sleeping.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Dragging a Dead Deer Up a Hill/Stuck.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Dragging a Dead Deer Up a Hill/When We Fall.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Dragging a Dead Deer Up a Hill/Traveling Through a Sea.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Dragging a Dead Deer Up a Hill/Fishing Bird (Empty Gutted In the Evening Breeze).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Dragging a Dead Deer Up a Hill/Invisible.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Dragging a Dead Deer Up a Hill/I'm Dragging a Dead Deer Up a Hill.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Dragging a Dead Deer Up a Hill/A Cover Over.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Dragging a Dead Deer Up a Hill/Wind and Snow.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Dragging a Dead Deer Up a Hill/Tidal Wave.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Dragging a Dead Deer Up a Hill/We've All Gone to Sleep.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Hold Sick - Single/Hold.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Hold Sick - Single/Sick.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/A I A Alien Observer/Moon Is Sharp.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/A I A Alien Observer/Alien Observer.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/A I A Alien Observer/Vapor Trails.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/A I A Alien Observer/She Loves Me That Way.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/A I A Alien Observer/Mary, On the Wall (Second Heart Tone).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/A I A Alien Observer/Come Softly (For Daniel D.).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/A I A Dream Loss/Dragging the Streets (First Heart Tone).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/A I A Dream Loss/I Saw a Ray.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/A I A Dream Loss/Soul Eraser.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/A I A Dream Loss/Atone.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/A I A Dream Loss/No Other.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/A I A Dream Loss/Wind Return.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/A I A Dream Loss/A Lie.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Water People 7 - Single/Water People.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Water People 7 - Single/Moving Machine.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Violet Replacement Pt. II SLEEP/Sleep.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Violet Replacement Pt. I Rolling Gate/Rolling Gate.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/The Man Who Died In His Boat/6.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/The Man Who Died In His Boat/Vital.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/The Man Who Died In His Boat/Cloud In Places.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/The Man Who Died In His Boat/Being Her Shadow.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/The Man Who Died In His Boat/Cover the Long Way.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/The Man Who Died In His Boat/Difference (Voices).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/The Man Who Died In His Boat/Vanishing Point.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/The Man Who Died In His Boat/The Man Who Died In His Boat.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/The Man Who Died In His Boat/Towers.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/The Man Who Died In His Boat/STS.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/The Man Who Died In His Boat/Living Room.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Ruins/Made of Metal.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Ruins/Clearing.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Ruins/Call Across Rooms.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Ruins/Labyrinth.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Ruins/Lighthouse.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Ruins/Holofernes.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Ruins/Holding.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Ruins/Made of Air.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Paradise Valley - Single/Headache.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Paradise Valley - Single/I'm Clean Now.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Children - Single/Children.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Grid of Points/The Races.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Grid of Points/Parking Lot.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Grid of Points/Driving.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Grid of Points/Thanksgiving Song.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Grid of Points/Birthday Song.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Grid of Points/Blouse.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Grid of Points/Breathing.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Shade/Followed the ocean.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Shade/Unclean mind.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Shade/The way her hair falls.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Shade/Promise.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Shade/Basement Mix.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Shade/Kelso (Blue sky).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Inca Ore Grouper/Little Gray Cat.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Inca Ore Grouper/Poison Tree.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Inca Ore Grouper/Fallow.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Inca Ore Grouper/A Light Change.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Inca Ore/Inca Ore Grouper/Churpa Champurrado.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Inca Ore/Inca Ore Grouper/Baby Tiger, I Went Far Away.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Inca Ore/Inca Ore Grouper/Chipiturca Eva Enmolada.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Inca Ore/Inca Ore Grouper/Michael, I Will Meet You at the End of Time.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Inca Ore/Inca Ore Grouper/Vista Maria.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Inca Ore/Inca Ore Grouper/The Valley of the Sherbert Cathedrals.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Inca Ore/Inca Ore Grouper/Song to the Sea.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/HUNCHO JACK/Huncho Jack, Jack Huncho (2017-12-22)/01 - Modern Slavery.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/HUNCHO JACK/Huncho Jack, Jack Huncho (2017-12-22)/02 - Black & Chinese.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/HUNCHO JACK/Huncho Jack, Jack Huncho (2017-12-22)/03 - Eye 2 Eye.mp3
@@ -714,6 +858,7 @@
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Imagine Dragons/Origins/Only(MP3_320K).mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Imagine Dragons/Origins/Stuck(MP3_320K).mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Imagine Dragons/Origins/Love(MP3_320K).mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/Singles/Hipnotised (feat. WDL).flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/IXFiingas/Lets Go/Let_s Go(MP3_320K).mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Jayelle/Rock Bottom/Rock Bottom(MP3_320K).mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/JENNIE/Albums/Ruby - 2025/01 - Intro _ JANE.mp3
@@ -731,6 +876,23 @@
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/JENNIE/Albums/Ruby - 2025/13 - Seoul City.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/JENNIE/Albums/Ruby - 2025/14 - Starlight.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/JENNIE/Albums/Ruby - 2025/15 - twin.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Jon Lajoie/You Want Some of This/Everyday Normal Guy.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Jon Lajoie/You Want Some of This/Too Fast.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Jon Lajoie/You Want Some of This/I Don't Understand.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Jon Lajoie/You Want Some of This/Show Me Your G s.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Jon Lajoie/You Want Some of This/High As F%#k.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Jon Lajoie/You Want Some of This/Pop Song.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Jon Lajoie/You Want Some of This/Song for Britney.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Jon Lajoie/You Want Some of This/The Phonecall.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Jon Lajoie/You Want Some of This/Everyday Normal Guy 2.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Jon Lajoie/You Want Some of This/Sunday Afternoon.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Jon Lajoie/You Want Some of This/Stay At Home Dad.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Jon Lajoie/You Want Some of This/Potty Training Song.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Jon Lajoie/You Want Some of This/Show Me Your G s 2 E=mc Vagina.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Jon Lajoie/You Want Some of This/Cold Blooded Christmas.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Jon Lajoie/You Want Some of This/2 Girls 1 Cup Song.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Jon Lajoie/You Want Some of This/Everyday Normal Crew.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Jon Lajoie/You Want Some of This/Why Did You Leave Me.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Julia Michaels/Inner Monologue Part 2/17(MP3_320K).mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Julia Michaels/Inner Monologue Part 2/Falling For Boys(MP3_320K).mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Julia Michaels/Inner Monologue Part 2/Hurt Again(MP3_320K).mp3
@@ -759,6 +921,20 @@
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Kailash Kher & Kailasa/Albums/Rangeele/Samvaad (Hudkaan Maan Bitti)(MP3_320K).mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Kailash Kher & Kailasa/Albums/Rangeele/Dharti Pe Jannat Ka Nazara(MP3_320K).mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Kailash Kher & Kailasa/Albums/Rangeele/Ujaale Baant Lo(MP3_320K).mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Kanye West/Graduation/Good Morning.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Kanye West/Graduation/Champion.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Kanye West/Graduation/Stronger.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Kanye West/Graduation/I Wonder.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Kanye West/Graduation/Good Life (feat. T-Pain).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Kanye West/Graduation/Can't Tell Me Nothing.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Kanye West/Graduation/Barry Bonds (feat. Lil Wayne).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Kanye West/Graduation/Drunk and Hot Girls (feat. Mos Def).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Kanye West/Graduation/Flashing Lights (feat. Dwele).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Kanye West/Graduation/Everything I Am (feat. DJ Premier).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Kanye West/Graduation/The Glory.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Kanye West/Graduation/Homecoming (feat. Chris Martin).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Kanye West/Graduation/Big Brother.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Kanye West/Graduation/Good Night (feat. Mos Def & Al Be Back).flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Kendrick Lamar/Albums/good kid, m.A.A.d city - 2012/01 - Sherane A.K.A Master Splinter’s Daughter.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Kendrick Lamar/Albums/good kid, m.A.A.d city - 2012/02 - Bitch, Don’t Kill My Vibe.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Kendrick Lamar/Albums/good kid, m.A.A.d city - 2012/03 - Backseat Freestyle.mp3
@@ -905,6 +1081,51 @@
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Labrinth/Imagination & the Misfit Kid (2019-11-21)/14 - The Finale.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Labrinth/Imagination & the Misfit Kid (2019-11-21)/15 - Oblivion.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die (2016-05-06)/01 - Born to Die.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Paradise/Ride.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Paradise/American.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Paradise/Cola.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Paradise/Body Electric.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Paradise/Blue Velvet.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Paradise/Gods & Monsters.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Paradise/Yayo.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Paradise/Bel Air.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Paradise/Burning Desire.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die/Born to Die.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die/Off to the Races.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die/Blue Jeans.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die/Video Games.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die/Diet Mountain Dew.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die/National Anthem.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die/Dark Paradise.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die/Radio.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die/Carmen.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die/Million Dollar Man.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die/Summertime Sadness.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die/This Is What Makes Us Girls.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die The Paradise Edition/Born to Die.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die The Paradise Edition/Off to the Races.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die The Paradise Edition/Blue Jeans.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die The Paradise Edition/Video Games.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die The Paradise Edition/Diet Mountain Dew.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die The Paradise Edition/National Anthem.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die The Paradise Edition/Dark Paradise.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die The Paradise Edition/Radio.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die The Paradise Edition/Carmen.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die The Paradise Edition/Million Dollar Man.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die The Paradise Edition/Summertime Sadness.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die The Paradise Edition/This Is What Makes Us Girls.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die The Paradise Edition/Without You.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die The Paradise Edition/Lolita.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die The Paradise Edition/Lucky Ones.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die The Paradise Edition/Ride.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die The Paradise Edition/American.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die The Paradise Edition/Cola.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die The Paradise Edition/Body Electric.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die The Paradise Edition/Blue Velvet.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die The Paradise Edition/Gods & Monsters.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die The Paradise Edition/Yayo.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die The Paradise Edition/Bel Air.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die The Paradise Edition/Burning Desire.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die (2016-05-06)/03 - Blue Jeans (remastered).mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die (2016-05-06)/04 - Video Games (remastered).mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die (2016-05-06)/09 - Carmen.mp3
@@ -917,6 +1138,17 @@
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die_ The Paradise Edition (2012-11-16)/06 - Gods & Monsters.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die_ The Paradise Edition (2012-11-16)/07 - Yayo.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die_ The Paradise Edition (2012-11-16)/08 - Bel Air.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Ultraviolence/Cruel World.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Ultraviolence/Ultraviolence.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Ultraviolence/Shades of Cool.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Ultraviolence/Brooklyn Baby.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Ultraviolence/West Coast.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Ultraviolence/Sad Girl.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Ultraviolence/Pretty When You Cry.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Ultraviolence/Money Power Glory.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Ultraviolence/F d My Way Up To the Top.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Ultraviolence/Old Money.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Ultraviolence/The Other Woman.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Ultraviolence (2014-06-11)/01 - Cruel World.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Ultraviolence (2014-06-11)/02 - Ultraviolence.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Ultraviolence (2014-06-11)/03 - Shades of Cool.mp3
@@ -942,6 +1174,20 @@
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Honeymoon (2015-09-12)/12 - 24.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Honeymoon (2015-09-12)/13 - Swan Song.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Honeymoon (2015-09-12)/14 - Don’t Let Me Be Misunderstood.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Honeymoon/Honeymoon.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Honeymoon/Music To Watch Boys To.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Honeymoon/Terrence Loves You.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Honeymoon/God Knows I Tried.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Honeymoon/High By the Beach.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Honeymoon/Freak.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Honeymoon/Art Deco.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Honeymoon/Burnt Norton (Interlude).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Honeymoon/Religion.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Honeymoon/Salvatore.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Honeymoon/The Blackest Day.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Honeymoon/24.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Honeymoon/Swan Song.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Honeymoon/Don't Let Me Be Misunderstood.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die (2016-05-06)/02 - Off to the Races.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die (2016-05-06)/05 - Diet Mountain Dew.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Lana Del Rey/Born to Die (2016-05-06)/06 - National Anthem.mp3
@@ -979,6 +1225,7 @@
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/LSD/Labrinth, Sia & Diplo present… LSD/No New Friends(MP3_320K).mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/LSD/Labrinth, Sia & Diplo present… LSD/It_s Time(MP3_320K).mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/LSD/Labrinth, Sia & Diplo present… LSD/Genius (Lil Wayne Remix)(MP3_320K).mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Lucy Liyou/Blush (feat. Grouper) - Single/Blush (feat. Grouper).flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Mahaji, OminousyL, Monty Datta/Purple Sky/01 - Purple Sky.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Major Lazer/Peace Is the Mission/Be Together(MP3_320K)_1.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Major Lazer/Peace Is the Mission/Too Original(MP3_320K)_1.mp3
@@ -1421,6 +1668,10 @@
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Ravyn Lenae/Albums/Bird's Eye - 2024/08 - From Scratch.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Ravyn Lenae/Albums/Bird's Eye - 2024/09 - 1 of 1.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Ravyn Lenae/Albums/Bird's Eye - 2024/11 - Days.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Roy Montgomery Grouper/Hollow Press.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Roy Montgomery Grouper/Vessel.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Roy Montgomery Grouper/Hold the Way.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Grouper/Roy Montgomery Grouper/Pulse.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Russ/Albums/Brain Dead - 2014/01 - There Is No God but You.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Russ/Albums/Pink Elephant - 2014/01 - Goodbye.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Russ/Albums/Pink Elephant - 2014/02 - Psycho.mp3
@@ -1549,13 +1800,33 @@
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Sade/Albums/The Best of Sade - 2008/16 - Pearls.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Saint Avangeline/Albums/Gardener of Eden - 2022/08 - Faustian Bargain.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Saint Avangeline/Albums/Gardener of Eden - 2022/01 - Gardener of Eden.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Saint Avangeline/Albums/Gardener of Eden/Gardener of Eden.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Saint Avangeline/Albums/Gardener of Eden - 2022/02 - Lilith.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Saint Avangeline/Albums/Gardener of Eden/Lilith.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Saint Avangeline/Albums/Gardener of Eden - 2022/03 - The Color Purple.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Saint Avangeline/Albums/Gardener of Eden/The Color Purple.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Saint Avangeline/Albums/Gardener of Eden - 2022/04 - Red Herring.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Saint Avangeline/Albums/Gardener of Eden/Red Herring.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Saint Avangeline/Albums/Gardener of Eden - 2022/05 - Vineyard Valentine.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Saint Avangeline/Albums/Gardener of Eden/Vineyard Valentine.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Saint Avangeline/Albums/Gardener of Eden - 2022/06 - Ode to Evelyn.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Saint Avangeline/Albums/Gardener of Eden/Ode to Evelyn.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Saint Avangeline/Albums/Gardener of Eden - 2022/07 - Digital Snow.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Saint Avangeline/Albums/Gardener of Eden/Digital Snow.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Saint Avangeline/Albums/Gardener of Eden/Faustian Bargain.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Saint Avangeline/Albums/Gardener of Eden - 2022/09 - Your Rarest of Flowers.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Saint Avangeline/Albums/Gardener of Eden/Your Rarest of Flowers.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Saint Avangeline/Albums/Shades of Blue (Volume I) - Single/Young and Beautiful.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Saint Avangeline/Albums/Shades of Blue (Volume I) - Single/High by the Beach.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Saint Avangeline/Albums/Shades of Blue (Volume I) - Single/Shades of Cool.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Saint Avangeline/Albums/Inferno/Dante.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Saint Avangeline/Albums/Inferno/Blood You Shed.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Saint Avangeline/Albums/Inferno/10 Things I Miss About You.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Saint Avangeline/Albums/Inferno/Serpentine Queen.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Saint Avangeline/Albums/Inferno/Pretty Creature (Defile Me).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Saint Avangeline/Albums/Inferno/Sanguine Souls.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Saint Avangeline/Albums/Inferno/Left For Dead.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Saint Avangeline/Albums/Inferno/Inferno.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/shiloh dynasty/Shiloh &/01 - ﻿ONE DANCE (SLOWED).mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/shiloh dynasty/Shiloh &/02 - ﻿TELL ME WHY I'M WAITING (SLOWED).mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/shiloh dynasty/lotus leaf &/01 - ﻿breakfast (slow down).mp3
@@ -1825,6 +2096,16 @@
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Tame Impala/Deadbeat/See You On Monday (You_re Lost)(MP3_320K).mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Tame Impala/Deadbeat/Afterthought(MP3_320K).mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Tame Impala/Deadbeat/End Of Summer(MP3_320K).mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Teal Peel/Country River/Mr. Yellow Tugboat.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Teal Peel/Country River/Sandy.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Teal Peel/Country River/Smello Coffee.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Teal Peel/Country River/How Many Bugs.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Teal Peel/Country River/Bird Play.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Teal Peel/Country River/Lalalala.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Teal Peel/Country River/Fruit Flies.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Teal Peel/Country River/Wind, O Friend.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Teal Peel/Country River/Me, Myself, And the Tide.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/Temper City/Singles/Self Aware - Temper City.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The 1975/I like it when you sleep, for you are so beautiful yet so unaware of it (2016-02-26)/01 - The 1975.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The 1975/I like it when you sleep, for you are so beautiful yet so unaware of it (2016-02-26)/02 - Love Me.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The 1975/I like it when you sleep, for you are so beautiful yet so unaware of it (2016-02-26)/03 - UGH!.mp3
@@ -1952,6 +2233,7 @@
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Chainsmokers/EPs/Breathe - 2025/06 - Spaces.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Chainsmokers/EPs/Breathe - 2025/07 - Veins.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Chainsmokers/EPs/Breathe - 2025/08 - The Cure.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Goo Goo Dolls/Greatest Hits, Vol. One The Singles/Iris.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Local Train/Vaaqif/Aakhri Salaam(MP3_320K).mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Local Train/Vaaqif/Vaaqif(MP3_320K).mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Marías/Albums/CINEMA - 2021/01 - Just a Feeling.mp3
@@ -1992,6 +2274,28 @@
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/I Love You. (2013-04-19)/09 - Female Robbery.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/I Love You. (2013-04-19)/10 - Staying Up.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/I Love You. (2013-04-19)/11 - Float.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/I Love You/Female Robbery.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/I Love You/How.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/I Love You/Afraid.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/I Love You/Everybody's Watching Me (Uh Oh).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/I Love You/Sweater Weather.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/I Love You/Let It Go.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/I Love You/Alleyways.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/I Love You/W.D.Y.W.F.M.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/I Love You/Flawless.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/I Love You/Staying Up.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/I Love You/Float.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Wiped Out!/A Moment of Silence.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Wiped Out!/Prey.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Wiped Out!/Cry Baby.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Wiped Out!/Wiped Out!.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Wiped Out!/The Beach.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Wiped Out!/Daddy Issues.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Wiped Out!/Baby Came Home 2 Valentines.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Wiped Out!/Greetings from Califournia.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Wiped Out!/Ferrari.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Wiped Out!/Single.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Wiped Out!/R.I.P. 2 My Youth.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Wiped Out! (10th Anniversary Edition) (2015-10-30)/01 - A Moment of Silence.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Wiped Out! (10th Anniversary Edition) (2015-10-30)/02 - Prey.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Wiped Out! (10th Anniversary Edition) (2015-10-30)/03 - Cry Baby.mp3
@@ -2008,63 +2312,128 @@
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Wiped Out! (10th Anniversary Edition) (2015-10-30)/18 - Greetings From Califournia (demo).mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Wiped Out! (10th Anniversary Edition) (2015-10-30)/19 - R.I.P. 2 My Youth (demo).mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard to Imagine the Neighbourhood Ever Changing (2018-11-02)/01 - Dust.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard To Imagine The Neighbourhood Ever Changing/Dust.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard to Imagine the Neighbourhood Ever Changing (2018-11-02)/02 - Kill Us All.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard To Imagine The Neighbourhood Ever Changing/Kill Us All (feat. Denzel Curry).flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard to Imagine the Neighbourhood Ever Changing (2018-11-02)/03 - 24_7.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard To Imagine The Neighbourhood Ever Changing/24 7.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard to Imagine the Neighbourhood Ever Changing (2018-11-02)/04 - Scary Love.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard To Imagine The Neighbourhood Ever Changing/Scary Love.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard to Imagine the Neighbourhood Ever Changing (2018-11-02)/05 - Softcore.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard To Imagine The Neighbourhood Ever Changing/Softcore.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard to Imagine the Neighbourhood Ever Changing (2018-11-02)/06 - Void.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard To Imagine The Neighbourhood Ever Changing/Void.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard to Imagine the Neighbourhood Ever Changing (2018-11-02)/07 - Roll Call.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard To Imagine The Neighbourhood Ever Changing/Roll Call.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard to Imagine the Neighbourhood Ever Changing (2018-11-02)/08 - Livin’ in a Dream.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard To Imagine The Neighbourhood Ever Changing/Livin' in a Dream (feat. Nipsey Hussle).flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard to Imagine the Neighbourhood Ever Changing (2018-11-02)/09 - You Get Me So High.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard To Imagine The Neighbourhood Ever Changing/You Get Me so High.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard to Imagine the Neighbourhood Ever Changing (2018-11-02)/10 - Reflections.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard To Imagine The Neighbourhood Ever Changing/Reflections.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard to Imagine the Neighbourhood Ever Changing (2018-11-02)/11 - Blue.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard To Imagine The Neighbourhood Ever Changing/Blue.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard to Imagine the Neighbourhood Ever Changing (2018-11-02)/12 - Paradise.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard To Imagine The Neighbourhood Ever Changing/Paradise.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard to Imagine the Neighbourhood Ever Changing (2018-11-02)/13 - Beat Take 1.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard To Imagine The Neighbourhood Ever Changing/Beat Take 1 (feat. Ghostface Killah).flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard to Imagine the Neighbourhood Ever Changing (2018-11-02)/14 - Stuck With Me.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard To Imagine The Neighbourhood Ever Changing/Stuck with Me.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard to Imagine the Neighbourhood Ever Changing (2018-11-02)/15 - Flowers.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard To Imagine The Neighbourhood Ever Changing/Flowers.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard to Imagine the Neighbourhood Ever Changing (2018-11-02)/16 - Compass.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard To Imagine The Neighbourhood Ever Changing/Compass.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard to Imagine the Neighbourhood Ever Changing (2018-11-02)/17 - Noise.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard To Imagine The Neighbourhood Ever Changing/Noise.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard to Imagine the Neighbourhood Ever Changing (2018-11-02)/18 - Heaven.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard To Imagine The Neighbourhood Ever Changing/Heaven.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard to Imagine the Neighbourhood Ever Changing (2018-11-02)/19 - Nervous.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard To Imagine The Neighbourhood Ever Changing/Nervous.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard to Imagine the Neighbourhood Ever Changing (2018-11-02)/20 - Sadderdaze.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard To Imagine The Neighbourhood Ever Changing/Sadderdaze.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard to Imagine the Neighbourhood Ever Changing (2018-11-02)/21 - Beautiful Oblivion.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Hard To Imagine The Neighbourhood Ever Changing/Beautiful Oblivion (feat. IDK).flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Neighbourhood/Fallen Star (2021-10-01)/01 - Fallen Star.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Stranglers/EPs/Golden Brown - 1981/01 - Golden Brown.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Stranglers/EPs/Golden Brown - 1981/02 - Golden Brown (slowed down version).mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Stranglers/EPs/Golden Brown - 1981/03 - Golden Brown (sped up version).mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Stranglers/Golden Brown - Single/Golden Brown.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Stranglers/Golden Brown - Single/Golden Brown (Slowed Down Version).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Stranglers/Golden Brown - Single/Golden Brown (Sped Up Version).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/House of Balloons (Original)/High For This (Original).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/House of Balloons (Original)/What You Need (Original).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/House of Balloons (Original)/House of Balloons Glass Table Girls (Original).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/House of Balloons (Original)/The Morning (Original).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/House of Balloons (Original)/Wicked Games (Original).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/House of Balloons (Original)/The Party & The After Party (Original).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/House of Balloons (Original)/Coming Down (Original).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/House of Balloons (Original)/Loft Music (Original).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/House of Balloons (Original)/The Knowing (Original).flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy (2016-11-25)/01 - Starboy.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy/Starboy (feat. Daft Punk).flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy (2016-11-25)/02 - Party Monster.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy/Party Monster.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy (2016-11-25)/03 - False Alarm.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy/False Alarm.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy (2016-11-25)/04 - Reminder.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy/Reminder.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy (2016-11-25)/05 - Rockin’.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy/Rockin’.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy (2016-11-25)/06 - Secrets.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy/Secrets.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy (2016-11-25)/07 - True Colors.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy/True Colors.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy (2016-11-25)/08 - Stargirl (interlude).mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy/Stargirl Interlude (feat. Lana Del Rey).flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy (2016-11-25)/09 - Sidewalks.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy/Sidewalks (feat. Kendrick Lamar).flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy (2016-11-25)/10 - Six Feet Under.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy/Six Feet Under.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy (2016-11-25)/11 - Love to Lay.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy/Love To Lay.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy (2016-11-25)/12 - A Lonely Night.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy/A Lonely Night.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy (2016-11-25)/13 - Attention.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy/Attention.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy (2016-11-25)/14 - Ordinary Life.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy/Ordinary Life.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy (2016-11-25)/15 - Nothing Without You.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy/Nothing Without You.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy (2016-11-25)/16 - All I Know.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy/All I Know (feat. Future).flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy (2016-11-25)/17 - Die for You.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy/Die For You.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy (2016-11-25)/18 - I Feel It Coming.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Starboy/I Feel It Coming (feat. Daft Punk).flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Singles/Heartless - 2019/01 - Heartless.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/After Hours (2020-03-20)/01 - Alone Again.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/After Hours/Alone Again.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/After Hours (2020-03-20)/02 - Too Late.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/After Hours/Too Late.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/After Hours (2020-03-20)/03 - Hardest to Love.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/After Hours/Hardest To Love.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/After Hours (2020-03-20)/04 - Scared to Live.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/After Hours/Scared To Live.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/After Hours (2020-03-20)/05 - Snowchild.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/After Hours/Snowchild.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/After Hours (2020-03-20)/06 - Escape From LA.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/After Hours/Escape From LA.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/After Hours (2020-03-20)/07 - Heartless.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/After Hours/Heartless.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/After Hours (2020-03-20)/08 - Faith.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/After Hours/Faith.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/After Hours (2020-03-20)/09 - Blinding Lights.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/After Hours/Blinding Lights.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/After Hours (2020-03-20)/10 - In Your Eyes.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/After Hours/In Your Eyes.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/After Hours (2020-03-20)/11 - Save Your Tears.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/After Hours/Save Your Tears.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/After Hours (2020-03-20)/12 - Repeat After Me (interlude).mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/After Hours/Repeat After Me (Interlude).flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/After Hours (2020-03-20)/13 - After Hours.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/After Hours/After Hours.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/After Hours (2020-03-20)/14 - Until I Bleed Out.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/After Hours/Until I Bleed Out.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Albums/The Highlights - 2021/01 - Save Your Tears.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Albums/The Highlights - 2021/02 - Blinding Lights.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Albums/The Highlights - 2021/03 - In Your Eyes.mp3
@@ -2098,6 +2467,28 @@
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Dawn FM (2022-01-07)/14 - I Heard You’re Married.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Dawn FM (2022-01-07)/15 - Less Than Zero.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Dawn FM (2022-01-07)/16 - Phantom Regret by Jim.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Hurry Up Tomorrow/Wake Me Up.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Hurry Up Tomorrow/Cry For Me.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Hurry Up Tomorrow/I Can't F g Sing.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Hurry Up Tomorrow/São Paulo.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Hurry Up Tomorrow/Until We're Skin & Bones.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Hurry Up Tomorrow/Baptized In Fear.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Hurry Up Tomorrow/Open Hearts.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Hurry Up Tomorrow/Opening Night.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Hurry Up Tomorrow/Reflections Laughing.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Hurry Up Tomorrow/Enjoy The Show.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Hurry Up Tomorrow/Given Up On Me.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Hurry Up Tomorrow/I Can't Wait To Get There.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Hurry Up Tomorrow/Timeless.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Hurry Up Tomorrow/Niagara Falls.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Hurry Up Tomorrow/Take Me Back To LA.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Hurry Up Tomorrow/Big Sleep.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Hurry Up Tomorrow/Give Me Mercy.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Hurry Up Tomorrow/Drive.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Hurry Up Tomorrow/The Abyss.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Hurry Up Tomorrow/Red Terror.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Hurry Up Tomorrow/Without a Warning.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Hurry Up Tomorrow/Hurry Up Tomorrow.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Hurry Up Tomorrow (2025-02-05)/01 - Wake Me Up.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Hurry Up Tomorrow (2025-02-05)/02 - Cry for Me.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Hurry Up Tomorrow (2025-02-05)/03 - I Can't Fucking Sing.mp3
@@ -2121,6 +2512,20 @@
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Hurry Up Tomorrow (2025-02-05)/21 - Without a Warning.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Hurry Up Tomorrow (2025-02-05)/22 - Hurry Up Tomorrow.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/Hurry Up Tomorrow (2025-02-05)/23 - Closing Night.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd & Doechii/Timeless (Remix) [feat. Playboi Carti] - Single/Timeless (feat. Playboi Carti) [Remix].flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd & Doechii/Timeless (Remix) [feat. Playboi Carti] - Single/Timeless.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd & Doechii/Timeless (Remix) [feat. Playboi Carti] - Single/Timeless (Instrumental).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/One of the Girls - EP/One Of The Girls.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/One of the Girls - EP/One Of The Girls (Sped Up).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/One of the Girls - EP/One Of The Girls (Slowed).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/One of the Girls - EP/One Of The Girls (Instrumental).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd/One of the Girls - EP/One Of The Girls (A Cappella).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd & Madonna/Popular (feat. Playboi Carti) - Single/Popular (feat. Playboi Carti).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd & Madonna/Popular (feat. Playboi Carti) - Single/Popular (feat. Playboi Carti) [Sped Up].flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd & Madonna/Popular (feat. Playboi Carti) - Single/Popular (feat. Playboi Carti) [Slowed].flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd & Madonna/Popular (feat. Playboi Carti) - Single/Popular (feat. Playboi Carti) [Instrumental].flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd & Madonna/Popular (feat. Playboi Carti) - Single/Popular (feat. Playboi Carti) [A Cappella].flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/The Weeknd & Playboi Carti/Timeless - Single/Timeless.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Thomas Bergersen/Singles/Next to You - 2019/01 - Next to You.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Travis Scott/Don't Play (2014-07-11)/01 - Don't Play.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/Travis Scott/Rodeo (2015-09-04)/01 - Pornography.mp3
@@ -2262,6 +2667,11 @@
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/worlds away part1/00 - ﻿Intolerance.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/worlds away part1/00 - ﻿Patience.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/worlds away part1/00 - ﻿Tiger Action.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/Singles/Stardust (feat. Elliphant).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/Singles/Hurricane Highlife (feat. Mawe).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/Singles/Monster Vs. Angel (feat. Mawe).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/Singles/Tin Can Motorbike (feat. Mouthe & Kristin Amparo).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/Singles/Cashmere (feat. Roads).flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/No Wings Airline (2017-04-07)/01 - Stardust.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/No Wings Airline (2017-04-07)/03 - Redline.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/No Wings Airline (2017-04-07)/04 - Hurricane Highlife.mp3
@@ -2273,10 +2683,32 @@
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/No Wings Airline (2017-04-07)/11 - Tin Can Motorbike.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/No Wings Airline (2017-04-07)/13 - Beautiful Thing.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/No Wings Airline (2017-04-07)/14 - Last Day.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/No Wings Airline/Stardust (feat. Elliphant).flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/No Wings Airline (2017-04-07)/02 - Monster vs. Angel.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/No Wings Airline/Monster vs. Angel (feat. Mawe).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/No Wings Airline/Redline (feat. Pauline Kamusewu).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/No Wings Airline/Hurricane Highlife (feat. Mawe).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/No Wings Airline/Weather (feat. Coco Noir).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/No Wings Airline/Cashmere (feat. Roads).flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/No Wings Airline (2017-04-07)/07 - Bob's Beat.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/No Wings Airline/Bob's Beat (feat. Mawe).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/No Wings Airline/Losing Sleep (feat. Fadu).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/No Wings Airline/Aurora Borealis (feat. Chris Cook & Sam).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/No Wings Airline/Aurora Borealis (feat. Chris Cook & Sam).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/No Wings Airline/Papillon (feat. Pauline Kamusewu).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/No Wings Airline/Tin Can Motorbike (feat. Mouthe & Kristin Amparo).flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/No Wings Airline (2017-04-07)/12 - Stairway to Nothing.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/No Wings Airline/Stairway to Nothing (feat. No Name At All).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/No Wings Airline/Beautiful Thing (feat. Pauline Kamusewu).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/No Wings Airline/Beautiful Thing (feat. Pauline Kamusewu).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/No Wings Airline/Last Day (feat. Mawe).flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/No Wings Airline (2017-04-07)/15 - Outro.mp3
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/No Wings Airline/Outro.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/Singles/Cashmere (feat. Roads) [Moods Remix].flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/Singles/Fight.flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/Singles/In the Morning (feat. Mawe).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/Singles/Journey (feat. Pauline Kamusewu).flac
+/home/aditya_sharma/HDD/Music/My music library/Mine songs/WDL/Singles/Sem medo.flac
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/We Are Scientists/Singles/Impatience - 2008/01 - Impatience.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/ZAYN/Albums/Icarus Falls - 2020/01 - Let Me.mp3
 /home/aditya_sharma/HDD/Music/My music library/Mine songs/ZAYN/Albums/Icarus Falls - 2020/02 - Natural.mp3
