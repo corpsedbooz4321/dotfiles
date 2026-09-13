@@ -7,3 +7,6 @@ cache
 command-history
 settings.json
 .config/sonora/settings.json
+/home/aditya_sharma/dotfiles/.config/cmus/lib.pl
+*pl
+search-history
