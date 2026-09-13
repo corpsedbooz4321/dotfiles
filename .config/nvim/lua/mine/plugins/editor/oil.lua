@@ -1,22 +1,26 @@
 return {
-  {
-    "stevearc/oil.nvim",
-    dependencies = { "nvim-mini/mini.icons" },
-    cmd = { "Oil" },
-    keys = {
-      {
-        "<leader>o",
-        "<cmd>Oil<cr>",
-        desc = "Open Oil",
+  "stevearc/oil.nvim",
+  opts = {
+    float = {
+      -- Padding around the floating window
+      padding = 2,
+      max_width = 90,
+      max_height = 0,
+      border = "rounded",
+      win_options = {
+        winblend = 0,
       },
     },
-    opts = {
-      default_file_explorer = true,
-      delete_to_trash = true,
-      skip_confirm_for_simple_edits = true,
-      view_options = {
-        show_hidden = true,
-      },
+  },
+  dependencies = { "nvim-tree/nvim-web-devicons" },
+  keys = {
+    -- Use oil.toggle_float instead of oil.open
+    {
+      "-",
+      function()
+        require("oil").toggle_float()
+      end,
+      desc = "Open Oil floating window",
     },
   },
 }
