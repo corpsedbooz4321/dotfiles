@@ -1,4 +1,6 @@
--- Keymaps are automatically loaded on the VeryLazy event
-vim.keymap.set("n", "<leader>tt", function()
-  Snacks.terminal.toggle()
-end, { desc = "Toogle Terminal" })
+local keymap = vim.keymap.set
+
+-- Disable command history window triggers
+keymap("n", "q:", "<Nop>", { silent = true, desc = "Disable command history" })
+keymap("n", "q/", "<Nop>", { silent = true, desc = "Disable search history forward" })
+keymap("n", "q?", "<Nop>", { silent = true, desc = "Disable search history backward" })
