@@ -95,6 +95,7 @@ alias dot="cd ~/dotfiles"
 alias conf="cd ~/.config"
 alias reload="source ~/.zshrc"
 alias hyprreload="hyprctl reload"
+alias gcc-check="gcc -Wall -Wextra -pedantic -std=c11"
 #===================================================================================
 #===================================================================================
 
