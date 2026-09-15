@@ -9,4 +9,7 @@ settings.json
 .config/sonora/settings.json
 /home/aditya_sharma/dotfiles/.config/cmus/lib.pl
 *pl
-search-history
+.config/nvim/.neoconf.json
+.config/nvim/.lazy-lock.json
+.config/cmus/search-history
+

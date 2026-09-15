@@ -6,6 +6,8 @@ return {
         clangd = {},
         csharp_ls = {},
         jsonls = {},
+        html = {},
+        tsserver = {},
         lua_ls = {},
         marksman = {},
         pyright = {},
