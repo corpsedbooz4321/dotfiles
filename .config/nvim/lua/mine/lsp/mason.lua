@@ -27,7 +27,10 @@ return {
     opts = {
       ensure_installed = {
         "clang-format",
+        "lua_ls",
         "prettierd",
+        "html-lsp",
+        "typescript-language-server",
         "ruff",
         "stylua",
       },
