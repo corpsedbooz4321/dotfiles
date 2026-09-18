@@ -69,6 +69,7 @@
   },
   "custom/media-now-playing": {
     "exec": "~/.config/waybar/custom_modules/media/media-now-playing.sh",
+    "on-click": "sonora",
     "escape": true,
     "tooltip": false
   },
