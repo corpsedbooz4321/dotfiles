@@ -1,6 +1,7 @@
 ----------------------
 ---- WINDOW RULES ----
 ----------------------
+-- lua/rules.lua
 
 local suppressMaximizeRule = hl.window_rule({
 	name = "suppress-maximize-events",
@@ -28,13 +29,9 @@ hl.window_rule({
 	float = true,
 })
 
--- lua/rules.lua
-
--- Disable live content redraw glitches for ghostty during resizes
 hl.window_rule({
 	name = "kitty-resize-fix",
-	match = { class = "kitty" }, -- or class = "ghostty"
-	-- Prevents constant buffer updates during animation
+	match = { class = "kitty" },
 	no_initial_focus = false,
 })
 
@@ -46,3 +43,9 @@ hl.layer_rule({
 	blur = true,
 	ignore_alpha = 0.2,
 })
+--
+-- hl.window_rule({
+-- 	name = "cava-transparency",
+-- 	match = { class = "^(cava)$" },
+-- 	opacity = "0.85 0.85",
+-- })
