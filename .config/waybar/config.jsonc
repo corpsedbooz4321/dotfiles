@@ -74,6 +74,7 @@
   },
   "custom/media-animation": {
     "exec": "~/.config/waybar/custom_modules/media/media-animation.sh",
+    "on-click": "kitty --class cava -e cava",
     "escape": true,
     "tooltip": false
   }
