@@ -14,8 +14,3 @@ WALL="$WALL_DIR/$CATEGORY/$WALL_NAME"
 
 # Execute setwal ---
 "$HOME/dotfiles/.local/bin/setwal" "$WALL"
-
-# Link Pywal's generated theme into Yazi ---
-mkdir -p "$HOME/.config/yazi/flavors/pywal.yazi"
-cp "$HOME/.cache/wal/theme.toml" "$HOME/.config/yazi/flavors/pywal.yazi/flavor.toml" 2>/dev/null
-
