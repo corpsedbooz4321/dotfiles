@@ -95,6 +95,7 @@ alias run="python3"
 alias dot="cd ~/dotfiles"
 alias conf="cd ~/.config"
 alias reload="source ~/.zshrc"
+alias cmus="cmus & "
 alias hyprreload="hyprctl reload"
 alias gcc-check="gcc -Wall -Wextra -pedantic -std=c11"
 #===================================================================================
@@ -106,7 +107,7 @@ alias gcc-check="gcc -Wall -Wextra -pedantic -std=c11"
 alias updateall="sudo pacman -Syu"
 alias del="sudo pacman -Rns"
 alias ins="sudo pacman -S"
-alias please="sudo"
+alias pls="sudo"
 alias cleanup="sudo pacman -Rns \$(pacman -Qdtq)"
 #===================================================================================
 #===================================================================================
