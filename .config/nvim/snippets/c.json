@@ -5,11 +5,16 @@
       "#include <stdio.h>",
       "",
       "int main(void) {",
-      "    $0",
-      "    return 0;",
+      "  $0",
+      "  return 0;",
       "}"
     ],
     "description": "Basic main function boilerplate"
+  },
+  "Colon-help": {
+    "prefix": "print",
+    "body": ["printf($0);"],
+    "description": "auto semicolon"
   },
   "Printf Print": {
     "prefix": "pf",
