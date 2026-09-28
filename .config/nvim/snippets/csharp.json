@@ -1,0 +1,105 @@
+{
+  "Console WriteLine": {
+    "prefix": "cw",
+    "body": ["Console.WriteLine($0);"],
+    "description": "Print a line to the console"
+  },
+  "Console Write": {
+    "prefix": "cwrite",
+    "body": ["Console.Write($0);"],
+    "description": "Print to the console without a newline"
+  },
+  "Read Line": {
+    "prefix": "cr",
+    "body": ["Console.ReadLine();"],
+    "description": "Read a line from standard input"
+  },
+  "Main Function": {
+    "prefix": "main",
+    "body": ["static void Main(string[] args)", "{", "    $0", "}"],
+    "description": "Basic C# Main method"
+  },
+  "If Statement": {
+    "prefix": "if",
+    "body": ["if (${1:condition})", "{", "    $0", "}"],
+    "description": "Simple if statement"
+  },
+  "If Else": {
+    "prefix": "ife",
+    "body": [
+      "if (${1:condition})",
+      "{",
+      "    ${2:// code}",
+      "}",
+      "else",
+      "{",
+      "    $0",
+      "}"
+    ],
+    "description": "If-else statement"
+  },
+  "For Loop": {
+    "prefix": "fori",
+    "body": [
+      "for (int ${1:i} = 0; ${1:i} < ${2:n}; ${1:i}++)",
+      "{",
+      "    $0",
+      "}"
+    ],
+    "description": "Standard counting for loop"
+  },
+  "While Loop": {
+    "prefix": "wh",
+    "body": ["while (${1:condition})", "{", "    $0", "}"],
+    "description": "Basic while loop"
+  },
+  "Foreach Loop": {
+    "prefix": "foreach",
+    "body": ["foreach (var ${1:item} in ${2:collection})", "{", "    $0", "}"],
+    "description": "Iterate over a collection"
+  },
+  "Class": {
+    "prefix": "class",
+    "body": ["class ${1:ClassName}", "{", "    $0", "}"],
+    "description": "Basic C# class"
+  },
+  "Method": {
+    "prefix": "method",
+    "body": [
+      "${1:public} ${2:void} ${3:MethodName}(${4:})",
+      "{",
+      "    $0",
+      "}"
+    ],
+    "description": "Basic C# method"
+  },
+  "Integer Variable": {
+    "prefix": "int",
+    "body": ["int ${1:name} = ${2:0};"],
+    "description": "Declare and initialize an integer"
+  },
+  "String Variable": {
+    "prefix": "str",
+    "body": ["string ${1:name} = \"${2}\";"],
+    "description": "Declare and initialize a string"
+  },
+  "Boolean Variable": {
+    "prefix": "bool",
+    "body": ["bool ${1:name} = ${2:false};"],
+    "description": "Declare and initialize a boolean"
+  },
+  "Try Catch": {
+    "prefix": "try",
+    "body": [
+      "try",
+      "{",
+      "    $1",
+      "}",
+      "catch (Exception ${2:ex})",
+      "{",
+      "    $0",
+      "}"
+    ],
+    "description": "Basic try-catch block"
+  }
+}
