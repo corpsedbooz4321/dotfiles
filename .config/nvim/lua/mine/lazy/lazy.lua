@@ -19,6 +19,7 @@ require("lazy").setup({
 		{ "LazyVim/LazyVim", import = "lazyvim.plugins" },
 		{ import = "mine.plugins" },
 		{ import = "mine.lsp" },
+		{ require("mine.config.cowboy").cowboy() },
 		{ import = "mine.dap.dap" },
 		{ import = "mine.theme.tokyonight" },
 		{ import = "mine.languages" },
