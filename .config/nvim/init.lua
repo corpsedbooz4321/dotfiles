@@ -5,5 +5,6 @@ require("mine.lazy.lazy")
 vim.lsp.inlay_hint.enable = function() end
 
 require("mine.config.keymaps")
+require("mine.config.cowboy").cowboy()
 require("mine.config.options")
 require("mine.lsp")
