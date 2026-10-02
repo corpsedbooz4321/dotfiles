@@ -1,4 +1,4 @@
-@import "../../colors/pywal.rasi"
+@import "../../colors/matugen.rasi"
 
 /*****----- Configuration -----*****/
 configuration {
@@ -14,33 +14,55 @@ configuration {
 }
 
 /*****----- Global Properties -----*****/
-
+/*****----- Matugen Color Mapping -----*****/
 * {
-    border-colour:               var(selected);
-    handle-colour:               var(selected);
-    background-colour:           var(background);
-    foreground-colour:           var(foreground);
-    alternate-background:        var(background-alt);
-    normal-background:           var(background);
-    normal-foreground:           var(foreground);
-    urgent-background:           var(urgent);
-    urgent-foreground:           var(background);
-    active-background:           var(active);
-    active-foreground:           var(background);
-    selected-normal-background:  var(selected);
-    selected-normal-foreground:  var(background);
-    selected-urgent-background:  var(active);
-    selected-urgent-foreground:  var(background);
-    selected-active-background:  var(urgent);
-    selected-active-foreground:  var(background);
-    alternate-normal-background: var(background);
-    alternate-normal-foreground: var(foreground);
-    alternate-urgent-background: var(urgent);
-    alternate-urgent-foreground: var(background);
-    alternate-active-background: var(active);
-    alternate-active-foreground: var(background);
-}
+    /* Main colors */
+    background-colour: @surface;
+    foreground-colour: @on-surface;
 
+    /* Borders */
+    border-colour: @outline;
+
+    /* Secondary surfaces */
+    alternate-background: @surface-container;
+
+    /* Scrollbar */
+    handle-colour: @primary;
+
+    /* Normal */
+    normal-background: transparent;
+    normal-foreground: @on-surface;
+
+    /* Urgent */
+    urgent-background: @error;
+    urgent-foreground: @on-error;
+
+    /* Active */
+    active-background: @secondary;
+    active-foreground: @on-secondary;
+
+    /* Selected */
+    selected-normal-background: @primary;
+    selected-normal-foreground: @on-primary;
+
+    /* Selected urgent */
+    selected-urgent-background: @error;
+    selected-urgent-foreground: @on-error;
+
+    /* Selected active */
+    selected-active-background: @secondary;
+    selected-active-foreground: @on-secondary;
+
+    /* Alternate */
+    alternate-normal-background: @surface-container-low;
+    alternate-normal-foreground: @on-surface;
+
+    alternate-urgent-background: @error-container;
+    alternate-urgent-foreground: @on-error-container;
+
+    alternate-active-background: @secondary-container;
+    alternate-active-foreground: @on-secondary-container;
+}
 /*****----- Main Window -----*****/
 window {
     /* properties for window widget */
