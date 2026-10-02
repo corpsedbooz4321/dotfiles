@@ -11,6 +11,11 @@ hl.monitor({
 ---- LOOK AND FEEL ----
 -----------------------
 
+-----------------------
+-- Matugen colors import
+-----------------------
+local Colors = require("matu-hypr").get_colors()
+
 hl.config({
 	general = {
 		gaps_in = 5,
@@ -19,12 +24,12 @@ hl.config({
 		col = {
 			active_border = {
 				colors = {
-					"rgba(7aa2f7ee)",
-					"rgba(bb9af7ee)",
+					Colors.primary,
+					Colors.tertiary,
 				},
 				angle = 45,
 			},
-			inactive_border = "rgba(585b70aa)",
+			inactive_border = Colors.outline,
 		},
 		resize_on_border = false,
 		allow_tearing = true,
