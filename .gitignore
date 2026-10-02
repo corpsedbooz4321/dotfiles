@@ -12,3 +12,5 @@ settings.json
 .config/nvim/.neoconf.json
 .config/nvim/lazy-lock.json
 .config/cmus/search-history
+.config/yazi/flavor/flavor.toml
+.config/yazi/flavors/flavor.toml
